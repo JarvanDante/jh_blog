@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Categories on Home</title>
+    <link>http://wangjinbao.netlify.app/en/categories/</link>
+    <description>Recent content in Categories on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>jarvaniv0611@gmail.com (Karson)</managingEditor>
+    <webMaster>jarvaniv0611@gmail.com (Karson)</webMaster>
+    <copyright>©2024, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 23 Jun 2023 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="http://wangjinbao.netlify.app/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>k3s</title>
+        <link>http://wangjinbao.netlify.app/en/categories/k3s/</link>
+        <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
+        <author>jarvaniv0611@gmail.com (Karson)</author>
+        
+        <guid>http://wangjinbao.netlify.app/en/categories/k3s/</guid>
+        <description></description>
+        
+        <dc:creator>wangjinbao</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>k8s</title>
+        <link>http://wangjinbao.netlify.app/en/categories/k8s/</link>
+        <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
+        <author>jarvaniv0611@gmail.com (Karson)</author>
+        
+        <guid>http://wangjinbao.netlify.app/en/categories/k8s/</guid>
+        <description></description>
+        
+        <dc:creator>wangjinbao</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>multipass</title>
+        <link>http://wangjinbao.netlify.app/en/categories/multipass/</link>
+        <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
+        <author>jarvaniv0611@gmail.com (Karson)</author>
+        
+        <guid>http://wangjinbao.netlify.app/en/categories/multipass/</guid>
+        <description></description>
+        
+        <dc:creator>wangjinbao</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>jeager</title>
+        <link>http://wangjinbao.netlify.app/en/categories/jeager/</link>
+        <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
+        <author>jarvaniv0611@gmail.com (Karson)</author>
+        
+        <guid>http://wangjinbao.netlify.app/en/categories/jeager/</guid>
+        <description></description>
+        
+        <dc:creator>wangjinbao</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>prometheus</title>
+        <link>http://wangjinbao.netlify.app/en/categories/prometheus/</link>
+        <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
+        <author>jarvaniv0611@gmail.com (Karson)</author>
+        
+        <guid>http://wangjinbao.netlify.app/en/categories/prometheus/</guid>
+        <description></description>
+        
+        <dc:creator>wangjinbao</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>yaml</title>
+        <link>http://wangjinbao.netlify.app/en/categories/yaml/</link>
+        <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
+        <author>jarvaniv0611@gmail.com (Karson)</author>
+        
+        <guid>http://wangjinbao.netlify.app/en/categories/yaml/</guid>
+        <description></description>
+        
+        <dc:creator>wangjinbao</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>consul</title>
+        <link>http://wangjinbao.netlify.app/en/categories/consul/</link>
+        <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
+        <author>jarvaniv0611@gmail.com (Karson)</author>
+        
+        <guid>http://wangjinbao.netlify.app/en/categories/consul/</guid>
+        <description></description>
+        
+        <dc:creator>wangjinbao</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>seata</title>
+        <link>http://wangjinbao.netlify.app/en/categories/seata/</link>
+        <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
+        <author>jarvaniv0611@gmail.com (Karson)</author>
+        
+        <guid>http://wangjinbao.netlify.app/en/categories/seata/</guid>
+        <description></description>
+        
+        <dc:creator>wangjinbao</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>db</title>
+        <link>http://wangjinbao.netlify.app/en/categories/db/</link>
+        <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
+        <author>jarvaniv0611@gmail.com (Karson)</author>
+        
+        <guid>http://wangjinbao.netlify.app/en/categories/db/</guid>
+        <description></description>
+        
+        <dc:creator>wangjinbao</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>go</title>
+        <link>http://wangjinbao.netlify.app/en/categories/go/</link>
+        <pubDate>Sat, 03 Dec 2022 00:00:01 +0000</pubDate>
+        <author>jarvaniv0611@gmail.com (Karson)</author>
+        
+        <guid>http://wangjinbao.netlify.app/en/categories/go/</guid>
+        <description></description>
+        
+        <dc:creator>wangjinbao</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>helm</title>
+        <link>http://wangjinbao.netlify.app/en/categories/helm/</link>
+        <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
+        <author>jarvaniv0611@gmail.com (Karson)</author>
+        
+        <guid>http://wangjinbao.netlify.app/en/categories/helm/</guid>
+        <description></description>
+        
+        <dc:creator>wangjinbao</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>minikube</title>
+        <link>http://wangjinbao.netlify.app/en/categories/minikube/</link>
+        <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
+        <author>jarvaniv0611@gmail.com (Karson)</author>
+        
+        <guid>http://wangjinbao.netlify.app/en/categories/minikube/</guid>
+        <description></description>
+        
+        <dc:creator>wangjinbao</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>es</title>
+        <link>http://wangjinbao.netlify.app/en/categories/es/</link>
+        <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+        <author>jarvaniv0611@gmail.com (Karson)</author>
+        
+        <guid>http://wangjinbao.netlify.app/en/categories/es/</guid>
+        <description></description>
+        
+        <dc:creator>wangjinbao</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>fluentd</title>
+        <link>http://wangjinbao.netlify.app/en/categories/fluentd/</link>
+        <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+        <author>jarvaniv0611@gmail.com (Karson)</author>
+        
+        <guid>http://wangjinbao.netlify.app/en/categories/fluentd/</guid>
+        <description></description>
+        
+        <dc:creator>wangjinbao</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>kibana</title>
+        <link>http://wangjinbao.netlify.app/en/categories/kibana/</link>
+        <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+        <author>jarvaniv0611@gmail.com (Karson)</author>
+        
+        <guid>http://wangjinbao.netlify.app/en/categories/kibana/</guid>
+        <description></description>
+        
+        <dc:creator>wangjinbao</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>golang</title>
+        <link>http://wangjinbao.netlify.app/en/categories/golang/</link>
+        <pubDate>Wed, 08 Jun 2022 12:00:06 +0900</pubDate>
+        <author>jarvaniv0611@gmail.com (Karson)</author>
+        
+        <guid>http://wangjinbao.netlify.app/en/categories/golang/</guid>
+        <description></description>
+        
+        <dc:creator>wangjinbao</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>mysql</title>
+        <link>http://wangjinbao.netlify.app/en/categories/mysql/</link>
+        <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+        <author>jarvaniv0611@gmail.com (Karson)</author>
+        
+        <guid>http://wangjinbao.netlify.app/en/categories/mysql/</guid>
+        <description></description>
+        
+        <dc:creator>wangjinbao</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>redis</title>
+        <link>http://wangjinbao.netlify.app/en/categories/redis/</link>
+        <pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate>
+        <author>jarvaniv0611@gmail.com (Karson)</author>
+        
+        <guid>http://wangjinbao.netlify.app/en/categories/redis/</guid>
+        <description></description>
+        
+        <dc:creator>wangjinbao</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>kafka</title>
+        <link>http://wangjinbao.netlify.app/en/categories/kafka/</link>
+        <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+        <author>jarvaniv0611@gmail.com (Karson)</author>
+        
+        <guid>http://wangjinbao.netlify.app/en/categories/kafka/</guid>
+        <description></description>
+        
+        <dc:creator>wangjinbao</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>linux</title>
+        <link>http://wangjinbao.netlify.app/en/categories/linux/</link>
+        <pubDate>Sun, 02 Jan 2022 00:00:01 +0000</pubDate>
+        <author>jarvaniv0611@gmail.com (Karson)</author>
+        
+        <guid>http://wangjinbao.netlify.app/en/categories/linux/</guid>
+        <description></description>
+        
+        <dc:creator>wangjinbao</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>python</title>
+        <link>http://wangjinbao.netlify.app/en/categories/python/</link>
+        <pubDate>Sat, 25 Jan 2020 06:40:51 +0900</pubDate>
+        <author>jarvaniv0611@gmail.com (Karson)</author>
+        
+        <guid>http://wangjinbao.netlify.app/en/categories/python/</guid>
+        <description></description>
+        
+        <dc:creator>wangjinbao</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

@@ -1,0 +1,118 @@
+[[main]]
+  identifier = "stack"
+  name = "技术类型"
+  url = "stack"
+  weight = 2
+
+
+[[main]]
+  parent = "stack"
+  name = "golang"
+  url = "stack/golang"
+  weight = 1
+
+[[main]]
+  parent = "stack"
+  name = "php"
+  url = "stack/php"
+  weight = 2
+
+[[main]]
+  parent = "stack"
+  name = "python"
+  url = "stack/python"
+  weight = 3
+
+[[main]]
+  parent = "stack"
+  name = "javascript"
+  url = "stack/javascript"
+  weight = 4
+
+[[main]]
+  parent = "stack"
+  name = "linux"
+  url = "stack/linux"
+  weight = 5
+
+[[main]]
+  parent = "stack"
+  name = "db"
+  url = "stack/db"
+  weight = 6
+
+  [[main]]
+    parent = "stack"
+    name = "k8s"
+    url = "stack/k8s"
+    weight = 7
+
+  [[main]]
+    parent = "stack"
+    name = "knowledge"
+    url = "stack/knowledge"
+    weight = 8
+
+  [[main]]
+    parent = "stack"
+    name = "产品"
+    url = "stack/product"
+    weight = 9
+[[main]]
+  identifier = "about"
+  name = "个人经历"
+  url = "about"
+  weight = 3
+
+[[main]]
+  identifier = "archive"
+  name = "历程图"
+  url = "archive"
+  weight = 1
+
+#[[main]]
+#  identifier = "presentation"
+#  name = "Pt"
+#  url = "presentation"
+#  weight = 3
+
+# [[main]]
+#   identifier = "gallery"
+#   name = "Gallery"
+#   url = "gallery"
+#   weight = 4
+    
+# [[main]]
+#   parent = "gallery"
+#   name = "Cartoon"
+#   url = "gallery/cartoon"
+#
+# [[main]]
+#   parent = "gallery"
+#   name = "Photo"
+#   url = "gallery/photo"
+
+
+[[main]]
+  identifier = "posts"
+  name = "热门帖子"
+  url = "posts"
+  weight = 5
+
+# [[main]]
+#   identifier = "showcase"
+#   name = "开源项目"
+#   url = "showcase"
+#   weight = 6
+
+#[[main]]
+#  identifier = "publication"
+#  name = "Pub"
+#  url = "publication"
+#  weight = 7
+
+[[main]]
+  identifier = "experience"
+  name = "个人风采"
+  url = "experience"
+  weight = 8

@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>knowledge on Home</title>
+    <link>http://wangjinbao.netlify.app/en/tags/knowledge/</link>
+    <description>Recent content in knowledge on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>jarvaniv0611@gmail.com (Karson)</managingEditor>
+    <webMaster>jarvaniv0611@gmail.com (Karson)</webMaster>
+    <copyright>©2024, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 20 May 2023 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="http://wangjinbao.netlify.app/en/tags/knowledge/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Jeager链路追踪系统</title>
+        <link>http://wangjinbao.netlify.app/en/stack/knowledge/jeager/</link>
+        <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
+        <author>jarvaniv0611@gmail.com (Karson)</author>
+        <atom:modified>Sat, 20 May 2023 00:00:00 +0000</atom:modified>
+        <guid>http://wangjinbao.netlify.app/en/stack/knowledge/jeager/</guid>
+        <description>概述 Jaeger 是 Uber 开发并开源的一款 分布式链路追踪系统 ，兼容 OpenTracing API。 适用场景： 分布式跟踪信息传递 分布式事务监控 问题分析 依赖分析 性能优化 特性 高扩展性 J</description>
+        
+        <dc:creator>wangjinbao</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>knowledge</category>
+            
+          
+        
+        
+          
+            
+              <category>jeager</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>OpenTracing</title>
+        <link>http://wangjinbao.netlify.app/en/stack/knowledge/opentracing/</link>
+        <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
+        <author>jarvaniv0611@gmail.com (Karson)</author>
+        <atom:modified>Sat, 20 May 2023 00:00:00 +0000</atom:modified>
+        <guid>http://wangjinbao.netlify.app/en/stack/knowledge/opentracing/</guid>
+        <description>OpenTracing概念 OpenTracing 分布式调用链标准（OpenTracing） 为了让分布式链路追踪技术有一个行业标准，CNCF（云原生计算基金会） 推</description>
+        
+        <dc:creator>wangjinbao</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>knowledge</category>
+            
+          
+        
+        
+          
+            
+              <category>jeager</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>prometheus</title>
+        <link>http://wangjinbao.netlify.app/en/stack/knowledge/prometheus/</link>
+        <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
+        <author>jarvaniv0611@gmail.com (Karson)</author>
+        <atom:modified>Sat, 20 May 2023 00:00:00 +0000</atom:modified>
+        <guid>http://wangjinbao.netlify.app/en/stack/knowledge/prometheus/</guid>
+        <description>概述 prometheus 是一个 时间序列 数据库 prometheus特点 多维度数据模型 Prometheus 使用多维度的数据模型来存储时间序列数据 强大的查询语言 PromQL 是 Prometheus 的查询语言，支持</description>
+        
+        <dc:creator>wangjinbao</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>knowledge</category>
+            
+          
+        
+        
+          
+            
+              <category>prometheus</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>浅谈yaml</title>
+        <link>http://wangjinbao.netlify.app/en/stack/knowledge/yaml/</link>
+        <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
+        <author>jarvaniv0611@gmail.com (Karson)</author>
+        <atom:modified>Sat, 20 May 2023 00:00:00 +0000</atom:modified>
+        <guid>http://wangjinbao.netlify.app/en/stack/knowledge/yaml/</guid>
+        <description>介绍 是一个可读性高，用来表达数据序列的格式。 YAML 的意思其实：仍是一种 标记语言，但为是强调这种语言 以数据做为中心，而不是以标记语言为重点 基本语法</description>
+        
+        <dc:creator>wangjinbao</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>knowledge</category>
+            
+          
+        
+        
+          
+            
+              <category>yaml</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>consul服务注册中心</title>
+        <link>http://wangjinbao.netlify.app/en/stack/knowledge/consul_center/</link>
+        <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
+        <author>jarvaniv0611@gmail.com (Karson)</author>
+        <atom:modified>Fri, 19 May 2023 00:00:00 +0000</atom:modified>
+        <guid>http://wangjinbao.netlify.app/en/stack/knowledge/consul_center/</guid>
+        <description>介绍 市面上常用的嗠注册中心有： Eureka Nacos Consul ZooKeeper Etcd CoreDNS Eureka2.X版本官方已经停止更新了。 Consul是HashiCorp公司推出使用go语言开发</description>
+        
+        <dc:creator>wangjinbao</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>knowledge</category>
+            
+          
+        
+        
+          
+            
+              <category>consul</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>分布式事务框架 seata</title>
+        <link>http://wangjinbao.netlify.app/en/stack/knowledge/seata/</link>
+        <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
+        <author>jarvaniv0611@gmail.com (Karson)</author>
+        <atom:modified>Fri, 19 May 2023 00:00:00 +0000</atom:modified>
+        <guid>http://wangjinbao.netlify.app/en/stack/knowledge/seata/</guid>
+        <description>理论基础 CAP定理 1998年，加州大学，Eric Brewer提出，分布式系统有三个指标： Consistency(一致性) Availabili</description>
+        
+        <dc:creator>wangjinbao</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>knowledge</category>
+            
+          
+        
+        
+          
+            
+              <category>seata</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>全链路压测实践</title>
+        <link>http://wangjinbao.netlify.app/en/stack/knowledge/e2e/</link>
+        <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+        <author>jarvaniv0611@gmail.com (Karson)</author>
+        <atom:modified>Thu, 19 May 2022 00:00:00 +0000</atom:modified>
+        <guid>http://wangjinbao.netlify.app/en/stack/knowledge/e2e/</guid>
+        <description>全链路压测 概念 全链路压测（End-to-End（E2E） Performance Testing） 是指对软件系统或服务进行综合性能测试的一种方法。它模拟了真实的用户</description>
+        
+        <dc:creator>wangjinbao</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>knowledge</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>分布式事务的常用解决方案</title>
+        <link>http://wangjinbao.netlify.app/en/stack/knowledge/transaction/</link>
+        <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+        <author>jarvaniv0611@gmail.com (Karson)</author>
+        <atom:modified>Thu, 19 May 2022 00:00:00 +0000</atom:modified>
+        <guid>http://wangjinbao.netlify.app/en/stack/knowledge/transaction/</guid>
+        <description>引言 在分布式系统中，事务管理是一项非常重要的任务。分布式事务涉及到多个事务参与者之间的协调和一致性保证，同时还要解决网络延迟、故障恢复等问题</description>
+        
+        <dc:creator>wangjinbao</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>knowledge</category>
+            
+          
+        
+        
+          
+            
+              <category>mysql</category>
+            
+          
+            
+              <category>go</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>保证缓存和数据库的数据一致性</title>
+        <link>http://wangjinbao.netlify.app/en/stack/knowledge/data_same/</link>
+        <pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate>
+        <author>jarvaniv0611@gmail.com (Karson)</author>
+        <atom:modified>Wed, 18 May 2022 00:00:00 +0000</atom:modified>
+        <guid>http://wangjinbao.netlify.app/en/stack/knowledge/data_same/</guid>
+        <description>错误的解决方案 1 先更新数据库，再删除缓存 若数据库更新成功，删除缓存操作失败，则此后读到的都是缓存中过期的数据，造成不一致问题。 2 先更新数据库</description>
+        
+        <dc:creator>wangjinbao</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>knowledge</category>
+            
+          
+        
+        
+          
+            
+              <category>mysql</category>
+            
+          
+            
+              <category>redis</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>监控体系演进及可视化</title>
+        <link>http://wangjinbao.netlify.app/en/stack/knowledge/monitor/</link>
+        <pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate>
+        <author>jarvaniv0611@gmail.com (Karson)</author>
+        <atom:modified>Wed, 18 May 2022 00:00:00 +0000</atom:modified>
+        <guid>http://wangjinbao.netlify.app/en/stack/knowledge/monitor/</guid>
+        <description>监控流程 数据上报 数据处理 接入使用 公有云建设（独立部署，功能闭环） 功能优化： HTTP接口，支持客户端外网上报 DC Agent，兼容基础指标上报 告警</description>
+        
+        <dc:creator>wangjinbao</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>knowledge</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>直播分布式系统的一致性</title>
+        <link>http://wangjinbao.netlify.app/en/stack/knowledge/trace/</link>
+        <pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate>
+        <author>jarvaniv0611@gmail.com (Karson)</author>
+        <atom:modified>Wed, 18 May 2022 00:00:00 +0000</atom:modified>
+        <guid>http://wangjinbao.netlify.app/en/stack/knowledge/trace/</guid>
+        <description>一、分布式理论基础 CAP Consitency(一致性) Availability(可用性) Partition tolerance(分区容错性) CAP无法同时满足 BA</description>
+        
+        <dc:creator>wangjinbao</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>knowledge</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>golang中使用kafka的综合指南</title>
+        <link>http://wangjinbao.netlify.app/en/stack/knowledge/kafkatips/</link>
+        <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+        <author>jarvaniv0611@gmail.com (Karson)</author>
+        <atom:modified>Tue, 17 May 2022 00:00:00 +0000</atom:modified>
+        <guid>http://wangjinbao.netlify.app/en/stack/knowledge/kafkatips/</guid>
+        <description>背景 kafka 是一个比较流行的 分布式 、 可拓展 、 高性能 、 可靠性 的流处理平台。 在处理kafka的数据时，这里有 确保处理效率和可靠性的 多种最佳实践。 下面介</description>
+        
+        <dc:creator>wangjinbao</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>knowledge</category>
+            
+          
+        
+        
+          
+            
+              <category>kafka</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Kafka的重复消费和消息丢失问题</title>
+        <link>http://wangjinbao.netlify.app/en/stack/knowledge/kafkaquestion/</link>
+        <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+        <author>jarvaniv0611@gmail.com (Karson)</author>
+        <atom:modified>Tue, 17 May 2022 00:00:00 +0000</atom:modified>
+        <guid>http://wangjinbao.netlify.app/en/stack/knowledge/kafkaquestion/</guid>
+        <description>介绍 在Kafka中，生产者（Producer） 和 消费者（Consumer） 是通过 发布订阅模式 进行协作的，生产者将消息发送到Kafka集群，而</description>
+        
+        <dc:creator>wangjinbao</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>knowledge</category>
+            
+          
+        
+        
+          
+            
+              <category>kafka</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>云原生观测性</title>
+        <link>http://wangjinbao.netlify.app/en/stack/knowledge/observation/</link>
+        <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+        <author>jarvaniv0611@gmail.com (Karson)</author>
+        <atom:modified>Tue, 17 May 2022 00:00:00 +0000</atom:modified>
+        <guid>http://wangjinbao.netlify.app/en/stack/knowledge/observation/</guid>
+        <description>应用的稳定性，以及出现问题的时候，怎样的快速定位到真正的原因，对于很多企业来说是都是一直在不断的设计和完善的能力。主要体现在怎样监控系统，怎</description>
+        
+        <dc:creator>wangjinbao</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>knowledge</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>微服务架构之幂等性问题</title>
+        <link>http://wangjinbao.netlify.app/en/stack/knowledge/manyquest/</link>
+        <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+        <author>jarvaniv0611@gmail.com (Karson)</author>
+        <atom:modified>Tue, 17 May 2022 00:00:00 +0000</atom:modified>
+        <guid>http://wangjinbao.netlify.app/en/stack/knowledge/manyquest/</guid>
+        <description>前言 小伙伴们有没有遇到过生产环境经常出现过重复的数据？在排查问题的时候，数据又是正常的。这个是何解呢？怎么会出现这种情况，而且还很难排查问题</description>
+        
+        <dc:creator>wangjinbao</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>knowledge</category>
+            
+          
+        
+        
+          
+            
+              <category>kafka</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Filebeat日志采集组件</title>
+        <link>http://wangjinbao.netlify.app/en/stack/knowledge/filebeat/</link>
+        <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
+        <author>jarvaniv0611@gmail.com (Karson)</author>
+        <atom:modified>Mon, 16 May 2022 00:00:00 +0000</atom:modified>
+        <guid>http://wangjinbao.netlify.app/en/stack/knowledge/filebeat/</guid>
+        <description>概述 Filebeat是一个轻量级的日志数据收集工具，属于Elastic公司的Elastic Stack（ELK Stack）生态系统的一部分。 目</description>
+        
+        <dc:creator>wangjinbao</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>knowledge</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>zookeeper、kafka、kafka-manager安装</title>
+        <link>http://wangjinbao.netlify.app/en/stack/knowledge/kafka/</link>
+        <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
+        <author>jarvaniv0611@gmail.com (Karson)</author>
+        <atom:modified>Mon, 16 May 2022 00:00:00 +0000</atom:modified>
+        <guid>http://wangjinbao.netlify.app/en/stack/knowledge/kafka/</guid>
+        <description>新建Dockerfile 新建文件夹zookeeper、kafka、kafka-manager，并添加相应的Dockerfile zookeep</description>
+        
+        <dc:creator>wangjinbao</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>knowledge</category>
+            
+          
+        
+        
+          
+            
+              <category>kafka</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

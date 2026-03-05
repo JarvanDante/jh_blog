@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>yaml on Home</title>
+    <link>http://wangjinbao.netlify.app/en/categories/yaml/</link>
+    <description>Recent content in yaml on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>jarvaniv0611@gmail.com (Karson)</managingEditor>
+    <webMaster>jarvaniv0611@gmail.com (Karson)</webMaster>
+    <copyright>©2024, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 20 May 2023 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="http://wangjinbao.netlify.app/en/categories/yaml/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>浅谈yaml</title>
+        <link>http://wangjinbao.netlify.app/en/stack/knowledge/yaml/</link>
+        <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
+        <author>jarvaniv0611@gmail.com (Karson)</author>
+        <atom:modified>Sat, 20 May 2023 00:00:00 +0000</atom:modified>
+        <guid>http://wangjinbao.netlify.app/en/stack/knowledge/yaml/</guid>
+        <description>介绍 是一个可读性高，用来表达数据序列的格式。 YAML 的意思其实：仍是一种 标记语言，但为是强调这种语言 以数据做为中心，而不是以标记语言为重点 基本语法</description>
+        
+        <dc:creator>wangjinbao</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>knowledge</category>
+            
+          
+        
+        
+          
+            
+              <category>yaml</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

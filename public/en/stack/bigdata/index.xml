@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>db on Home</title>
+    <link>http://wangjinbao.netlify.app/en/stack/db/</link>
+    <description>Recent content in db on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>jarvaniv0611@gmail.com (Karson)</managingEditor>
+    <webMaster>jarvaniv0611@gmail.com (Karson)</webMaster>
+    <copyright>©2024, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 25 Jun 2023 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="http://wangjinbao.netlify.app/en/stack/db/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>StarRocks使用</title>
+        <link>http://wangjinbao.netlify.app/en/stack/db/starrocks/</link>
+        <pubDate>Sun, 25 Jun 2023 00:00:00 +0000</pubDate>
+        <author>jarvaniv0611@gmail.com (Karson)</author>
+        <atom:modified>Sun, 25 Jun 2023 00:00:00 +0000</atom:modified>
+        <guid>http://wangjinbao.netlify.app/en/stack/db/starrocks/</guid>
+        <description>什么是StarRocks 官网地址 https://docs.starrocks.io/zh/docs/introduction/ StarRocks 是一款高性能分析型数据仓库，使用向量化、MPP 架构、可实时更新的列式存储引擎等技术实现多维、实时、高并发</description>
+        
+        <dc:creator>wangjinbao</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>db</category>
+            
+          
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>数仓模型设计原则</title>
+        <link>http://wangjinbao.netlify.app/en/stack/db/design/</link>
+        <pubDate>Sat, 24 Jun 2023 00:00:00 +0000</pubDate>
+        <author>jarvaniv0611@gmail.com (Karson)</author>
+        <atom:modified>Sat, 24 Jun 2023 00:00:00 +0000</atom:modified>
+        <guid>http://wangjinbao.netlify.app/en/stack/db/design/</guid>
+        <description>PS:数仓的设计流程： 步骤一：了解业务流程 建设过程： 一、数据整合及管理体系 定位与价值 建设统一的、规范化的数据接入层（ODS）和 数据中间层（D</description>
+        
+        <dc:creator>wangjinbao</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>db</category>
+            
+          
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>airflow调度系统</title>
+        <link>http://wangjinbao.netlify.app/en/stack/db/airflow/</link>
+        <pubDate>Wed, 24 May 2023 00:00:00 +0000</pubDate>
+        <author>jarvaniv0611@gmail.com (Karson)</author>
+        <atom:modified>Wed, 24 May 2023 00:00:00 +0000</atom:modified>
+        <guid>http://wangjinbao.netlify.app/en/stack/db/airflow/</guid>
+        <description>Airflow概念 Apache Airflow是一个开源的任务调度和工作流管理平台，它使用Python编写。Airflow调度器是Airflow的一个核</description>
+        
+        <dc:creator>wangjinbao</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>db</category>
+            
+          
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>dolphinscheduler</title>
+        <link>http://wangjinbao.netlify.app/en/stack/db/dolphinscheduler/</link>
+        <pubDate>Wed, 24 May 2023 00:00:00 +0000</pubDate>
+        <author>jarvaniv0611@gmail.com (Karson)</author>
+        <atom:modified>Wed, 24 May 2023 00:00:00 +0000</atom:modified>
+        <guid>http://wangjinbao.netlify.app/en/stack/db/dolphinscheduler/</guid>
+        <description>简介 Apache DolphinScheduler 旨在解决复杂的大数据任务依赖关系，并为应用程序提供数据和各种 OPS 编排中的关系。 解决数据研发ETL依赖错综复杂，无法监控任务健康状态的问</description>
+        
+        <dc:creator>wangjinbao</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>db</category>
+            
+          
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>SQL窗口函数</title>
+        <link>http://wangjinbao.netlify.app/en/stack/db/sql_func/</link>
+        <pubDate>Wed, 24 May 2023 00:00:00 +0000</pubDate>
+        <author>jarvaniv0611@gmail.com (Karson)</author>
+        <atom:modified>Wed, 24 May 2023 00:00:00 +0000</atom:modified>
+        <guid>http://wangjinbao.netlify.app/en/stack/db/sql_func/</guid>
+        <description>窗口函数 窗口函数表达式： 1 2 3 function(args)OVER([PARTITIONBYexpression][ORDERBYexpre</description>
+        
+        <dc:creator>wangjinbao</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>db</category>
+            
+          
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>SQL高级用法</title>
+        <link>http://wangjinbao.netlify.app/en/stack/db/sql_high/</link>
+        <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
+        <author>jarvaniv0611@gmail.com (Karson)</author>
+        <atom:modified>Tue, 23 May 2023 00:00:00 +0000</atom:modified>
+        <guid>http://wangjinbao.netlify.app/en/stack/db/sql_high/</guid>
+        <description>1.自定义排序 (ORDER BY FIELD) 在MySQL中ORDER BY 排序除了 ASC 和 DESC 之外，还可以用自定义排序方式实现 1 select*frommoviesORDERB</description>
+        
+        <dc:creator>wangjinbao</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>db</category>
+            
+          
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>StarRocks的Join 查询优化</title>
+        <link>http://wangjinbao.netlify.app/en/stack/db/select/</link>
+        <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
+        <author>jarvaniv0611@gmail.com (Karson)</author>
+        <atom:modified>Mon, 22 May 2023 00:00:00 +0000</atom:modified>
+        <guid>http://wangjinbao.netlify.app/en/stack/db/select/</guid>
+        <description>1.Join背景 1.1Join 类型 上图列举了常见的 Join 类型： Cross Join：左表和右表的一个笛卡尔积。 Full / Left / Right Outer Join：Outer Join 需要根据语义，对两表/</description>
+        
+        <dc:creator>wangjinbao</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>db</category>
+            
+          
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>StarRocks的执行计划</title>
+        <link>http://wangjinbao.netlify.app/en/stack/db/plan/</link>
+        <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
+        <author>jarvaniv0611@gmail.com (Karson)</author>
+        <atom:modified>Sun, 21 May 2023 00:00:00 +0000</atom:modified>
+        <guid>http://wangjinbao.netlify.app/en/stack/db/plan/</guid>
+        <description>1.基本概念 FE FE: 负责 查询解析 ， 查询优化 ， 查询调度 和 元数据管理 BE BE： 负责 查询执行 和 数据存储 2.完整处理一条查询 SQL 2.1 从 SQL 文本到执行计划 口诀：解</description>
+        
+        <dc:creator>wangjinbao</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>db</category>
+            
+          
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>数仓建设规范</title>
+        <link>http://wangjinbao.netlify.app/en/stack/db/tips/</link>
+        <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
+        <author>jarvaniv0611@gmail.com (Karson)</author>
+        <atom:modified>Sat, 20 May 2023 00:00:00 +0000</atom:modified>
+        <guid>http://wangjinbao.netlify.app/en/stack/db/tips/</guid>
+        <description>1、引言 1.1目标与范围 介绍企业IT数仓建设体系、架构和数据仓库开发规范，并附上实际案例加以说明，为数据仓库建设工作提供规范标准和指导建议。</description>
+        
+        <dc:creator>wangjinbao</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>db</category>
+            
+          
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>亿级仓库礼物的建设与演进</title>
+        <link>http://wangjinbao.netlify.app/en/stack/db/gift/</link>
+        <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
+        <author>jarvaniv0611@gmail.com (Karson)</author>
+        <atom:modified>Thu, 18 May 2023 00:00:00 +0000</atom:modified>
+        <guid>http://wangjinbao.netlify.app/en/stack/db/gift/</guid>
+        <description>仓库礼物概览 1.普通送礼 充值星币 2.仓库送礼 活动赢星币 需求： 存储要求： 数量 礼物种类 过期属性 绑定属性 送礼功能 入/出仓库功能 目标： 实现基本功能条</description>
+        
+        <dc:creator>wangjinbao</dc:creator>
+        <media:content url="http://wangjinbao.netlify.appimages/docImages/liwuzb.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>db</category>
+            
+          
+        
+        
+          
+            
+              <category>db</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

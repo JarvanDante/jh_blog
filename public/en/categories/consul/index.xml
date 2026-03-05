@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>consul on Home</title>
+    <link>http://wangjinbao.netlify.app/en/categories/consul/</link>
+    <description>Recent content in consul on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>jarvaniv0611@gmail.com (Karson)</managingEditor>
+    <webMaster>jarvaniv0611@gmail.com (Karson)</webMaster>
+    <copyright>©2024, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 19 May 2023 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="http://wangjinbao.netlify.app/en/categories/consul/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>consul服务注册中心</title>
+        <link>http://wangjinbao.netlify.app/en/stack/knowledge/consul_center/</link>
+        <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
+        <author>jarvaniv0611@gmail.com (Karson)</author>
+        <atom:modified>Fri, 19 May 2023 00:00:00 +0000</atom:modified>
+        <guid>http://wangjinbao.netlify.app/en/stack/knowledge/consul_center/</guid>
+        <description>介绍 市面上常用的嗠注册中心有： Eureka Nacos Consul ZooKeeper Etcd CoreDNS Eureka2.X版本官方已经停止更新了。 Consul是HashiCorp公司推出使用go语言开发</description>
+        
+        <dc:creator>wangjinbao</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>knowledge</category>
+            
+          
+        
+        
+          
+            
+              <category>consul</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>consul安装</title>
+        <link>http://wangjinbao.netlify.app/en/stack/golang/consul/</link>
+        <pubDate>Sat, 03 Dec 2022 00:00:01 +0000</pubDate>
+        <author>jarvaniv0611@gmail.com (Karson)</author>
+        <atom:modified>Sat, 03 Dec 2022 00:00:01 +0000</atom:modified>
+        <guid>http://wangjinbao.netlify.app/en/stack/golang/consul/</guid>
+        <description>consul 官方网站： https://consul.io/ 安装consul 方式一：macOS系统： 1 2 3 4 brew tap hashicorp/tap brew install hashicorp/tap/consul //检查版本号 consul version 方式二：linux系统： Debian&amp;ndash; 1 2 3 wget -O- https://apt.releases.hashicorp.com/gpg | sudo gpg --dearmor -o</description>
+        
+        <dc:creator>wangjinbao</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>golang</category>
+            
+          
+        
+        
+          
+            
+              <category>consul</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

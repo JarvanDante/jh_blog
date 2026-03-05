@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>k3s on Home</title>
+    <link>http://wangjinbao.netlify.app/en/categories/k3s/</link>
+    <description>Recent content in k3s on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>jarvaniv0611@gmail.com (Karson)</managingEditor>
+    <webMaster>jarvaniv0611@gmail.com (Karson)</webMaster>
+    <copyright>©2024, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 23 Jun 2023 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="http://wangjinbao.netlify.app/en/categories/k3s/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>k3s&#43;multipass实践k8s集群操作</title>
+        <link>http://wangjinbao.netlify.app/en/stack/k8s/k8s2/</link>
+        <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
+        <author>jarvaniv0611@gmail.com (Karson)</author>
+        <atom:modified>Fri, 23 Jun 2023 00:00:00 +0000</atom:modified>
+        <guid>http://wangjinbao.netlify.app/en/stack/k8s/k8s2/</guid>
+        <description>k8s的组件 node node是K8S集群中的一个节点 pod pod最小单元 ps:一个pod中是可以运行多个容器中的 service:svc 内部服务：数据库、后端API 外部服务</description>
+        
+        <dc:creator>wangjinbao</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>k8s</category>
+            
+          
+        
+        
+          
+            
+              <category>k8s</category>
+            
+          
+            
+              <category>k3s</category>
+            
+          
+            
+              <category>multipass</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

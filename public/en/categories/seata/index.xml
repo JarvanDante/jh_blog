@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>seata on Home</title>
+    <link>http://wangjinbao.netlify.app/en/categories/seata/</link>
+    <description>Recent content in seata on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>jarvaniv0611@gmail.com (Karson)</managingEditor>
+    <webMaster>jarvaniv0611@gmail.com (Karson)</webMaster>
+    <copyright>©2024, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 19 May 2023 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="http://wangjinbao.netlify.app/en/categories/seata/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>分布式事务框架 seata</title>
+        <link>http://wangjinbao.netlify.app/en/stack/knowledge/seata/</link>
+        <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
+        <author>jarvaniv0611@gmail.com (Karson)</author>
+        <atom:modified>Fri, 19 May 2023 00:00:00 +0000</atom:modified>
+        <guid>http://wangjinbao.netlify.app/en/stack/knowledge/seata/</guid>
+        <description>理论基础 CAP定理 1998年，加州大学，Eric Brewer提出，分布式系统有三个指标： Consistency(一致性) Availabili</description>
+        
+        <dc:creator>wangjinbao</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>knowledge</category>
+            
+          
+        
+        
+          
+            
+              <category>seata</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
