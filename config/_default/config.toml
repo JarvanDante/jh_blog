@@ -1,4 +1,4 @@
-baseURL = "http://wangjinbao.netlify.app"
+baseURL = "https://jarvan.netlify.app"
 title = "The blog of Karson"
 theme = "zzo"
 
