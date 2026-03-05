@@ -1,7 +1,7 @@
 ---
 author: "karson"
 title: "Golang的封装和实现"
-date: 2021-01-01 00:00:5
+date: 2021-01-01T00:00:05+08:00
 description: "在Go语言中封装就是把抽象出来的字段和对字段的操作封装在一起，数据被保护在内部，程序的其它包只能通过被授权的方法，才能对字段进行操作"
 draft: false
 hideToc: false

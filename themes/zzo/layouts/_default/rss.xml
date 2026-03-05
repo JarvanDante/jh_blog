@@ -22,6 +22,9 @@
     {{ end }}
     
     {{- $limit := .Site.Config.Services.RSS.Limit -}}
+    {{- if le $limit 0 -}}
+      {{- $limit = 5000 -}}
+    {{- end -}}
 
     {{ if .IsHome }}
       
