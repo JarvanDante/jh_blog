@@ -1,5 +1,5 @@
 ---
-author: "Karson"
+author: "jarvan"
 title: "启动Kubernetes下载镜像失败一直starting"
 date: 2022-05-21
 description: "启动 Kubernetes 所需的镜像往往会下载失败，于是点击 Apply 后，该配置页面的右下角始终显示 Kubernetes is starting，无法正常启动。"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: Karson
+author: jarvan
 authorEmoji: 👻
 tags:
 - k8s 

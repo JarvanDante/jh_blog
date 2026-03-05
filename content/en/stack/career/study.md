@@ -1,5 +1,5 @@
 ---
-author: "Karson"
+author: "jarvan"
 title: "专注对成功的重要性"
 date: 2024-05-16 00:00:01
 description: "任务具体，步骤拆分，输入输出"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: Karson
+author: jarvan
 authorEmoji: 👻
 tags:
 - career

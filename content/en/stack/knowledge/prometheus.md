@@ -1,5 +1,5 @@
 ---
-author: "Karson"
+author: "jarvan"
 title: "prometheus"
 date: 2023-05-20
 description: "Prometheus是由go语言开发的一套开源的监控&报警&时间序列数 据库的组合。"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: Karson
+author: jarvan
 authorEmoji: 👻
 tags:
 - knowledge

@@ -1,5 +1,5 @@
 ---
-author: "karson"
+author: "jarvan"
 title: "文本匹配模型"
 date: 2022-05-20
 description: "文本匹配模型是一种用于确定文本之间相似度或相关性的模型。它将两个文本作为输入，并输出一个表示它们之间相似程度的分数。"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: karson
+author: jarvan
 authorEmoji: 👻
 tags:
 - python

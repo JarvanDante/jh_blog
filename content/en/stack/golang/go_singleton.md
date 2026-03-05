@@ -1,5 +1,5 @@
 ---
-author: "karson"
+author: "jarvan"
 title: "Golang的单例模式"
 date: 2021-01-01 00:00:07
 description: "单例模式也叫单子模式,在它的核心结构中只包含一个被称为单例的特殊类，能够保证系统运行中一个类只创建一个实例"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: karson
+author: jarvan
 authorEmoji: 👻
 tags: 
 - golang

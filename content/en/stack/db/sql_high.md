@@ -1,5 +1,5 @@
 ---
-author: "karson"
+author: "jarvan"
 title: "SQL高级用法"
 date: 2023-05-23
 description: "几种好用的SQL高级用法。"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: karson
+author: jarvan
 authorEmoji: 👻
 tags:
 - db

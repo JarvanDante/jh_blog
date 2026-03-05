@@ -1,5 +1,5 @@
 ---
-author: "karson"
+author: "jarvan"
 title: "通用后台管理系统"
 date: 2022-07-01
 description: "通用后台管理系统"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: karson
+author: jarvan
 authorEmoji: 👻
 tags:
 - javascript

@@ -1,5 +1,5 @@
 ---
-author: "karson"
+author: "jarvan"
 title: "SQL窗口函数"
 date: 2023-05-24
 description: "在大数据开发中，窗口函数是一种强大的功能，用于在查询结果中计算聚合、排序和排名等操作"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: karson
+author: jarvan
 authorEmoji: 👻
 tags:
 - db

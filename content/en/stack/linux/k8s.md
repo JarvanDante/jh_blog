@@ -1,5 +1,5 @@
 ---
-author: "karson"
+author: "jarvan"
 title: "k8s"
 date: 2022-11-04 00:00:01
 description: "kubernetes，简称K8s，是用8代替名字中间的8个字符“ubernete”而成的缩写。目标是让部署容器化的应用简单并且高效"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: karson
+author: jarvan
 authorEmoji: 👻
 tags: 
 - linux

@@ -1,5 +1,5 @@
 ---
-author: "karson"
+author: "jarvan"
 title: "zsh下安装主题Powerlevel9k"
 date: 2022-01-02 00:00:01
 description: "Powerlevel9k主题可以用于 vanilla ZSH 或 ZSH 框架，如 oh-my-ZSH、 Prezto、 Antigen 等等。"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: karson
+author: jarvan
 authorEmoji: 👻
 tags: 
 - linux

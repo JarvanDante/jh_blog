@@ -1,5 +1,5 @@
 ---
-author: "karson"
+author: "jarvan"
 title: "CentOS24年停更后平替系统"
 date: 2022-01-05 00:00:01
 description: "CentOS 停止技术支持后，我们应该如何选择适合的操作系统?"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: karson
+author: jarvan
 authorEmoji: 👻
 tags: 
 - linux

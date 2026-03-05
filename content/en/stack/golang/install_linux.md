@@ -1,5 +1,5 @@
 ---
-author: "karson"
+author: "jarvan"
 title: "linux安装golang"
 date: 2021-01-02 01:01:00
 description: "整理在mac上的golang安装、配置及版本升级"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: karson
+author: jarvan
 authorEmoji: 👻
 tags: 
 - golang

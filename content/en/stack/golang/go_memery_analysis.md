@@ -1,5 +1,5 @@
 ---
-author: "karson"
+author: "jarvan"
 title: "Golang垃圾回收原理分析"
 date: 2022-02-06 00:00:01
 description: "Golang 垃圾回收原理分析"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: karson
+author: jarvan
 authorEmoji: 👻
 tags: 
 - golang

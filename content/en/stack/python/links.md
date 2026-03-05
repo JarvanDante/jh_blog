@@ -1,5 +1,5 @@
 ---
-author: "Karson"
+author: "jarvan"
 title: "python常用资料"
 date: 2020-03-19
 description: "Python是一种高级编程语言，它具有简单易学、可读性强和功能强大的特点。"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: Karson
+author: jarvan
 authorEmoji: 👻
 tags:
 - python

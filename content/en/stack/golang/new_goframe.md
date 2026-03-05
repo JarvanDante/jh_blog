@@ -1,5 +1,5 @@
 ---
-author: "karson"
+author: "jarvan"
 title: "web开发|goframe框架"
 date: 2025-02-02 01:01:00
 description: "go语言起源、安装运行环境、编辑器、集成等"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: karson
+author: jarvan
 authorEmoji: 👻
 tags: 
 - golang

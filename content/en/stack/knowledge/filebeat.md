@@ -1,5 +1,5 @@
 ---
-author: "karson"
+author: "jarvan"
 title: "Filebeat日志采集组件"
 date: 2022-05-16
 description: "一个轻量级的日志数据收集工具。"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: karson
+author: jarvan
 authorEmoji: 👻
 tags:
 - knowledge

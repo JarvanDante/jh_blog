@@ -1,5 +1,5 @@
 ---
-author: "karson"
+author: "jarvan"
 title: "goframe框架集成任务队列machinery和定时任务"
 date: 2021-12-01T12:00:06+09:00
 description: "goframe框架集成分布式异步任务队列machinery"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: karson
+author: jarvan
 authorEmoji: 👻
 tags: 
 - golang

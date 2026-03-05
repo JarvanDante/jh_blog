@@ -1,5 +1,5 @@
 ---
-author: "karson"
+author: "jarvan"
 title: "gorilla/websocket"
 date: 2022-12-05 00:00:01
 description: "Golang官方认可的websocket库"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: karson
+author: jarvan
 authorEmoji: 👻
 tags: 
 - golang

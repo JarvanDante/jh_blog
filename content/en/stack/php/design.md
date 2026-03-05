@@ -1,5 +1,5 @@
 ---
-author: "karson"
+author: "jarvan"
 title: "php常用设计模式代码"
 date: 2020-05-18
 description: "常用设计模式：单例模式、工厂模式、观察者模式、适配器模式、装饰器模式"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: karson
+author: jarvan
 authorEmoji: 👻
 tags:
 - php

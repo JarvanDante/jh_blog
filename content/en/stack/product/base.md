@@ -1,5 +1,5 @@
 ---
-author: "karson"
+author: "jarvan"
 title: "Figma-基础知识"
 date: 2025-02-05
 description: "在Figma中，需要一些基础知识准备"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: karson
+author: jarvan
 authorEmoji: 👻
 tags:
 - 产品

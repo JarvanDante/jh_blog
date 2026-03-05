@@ -1,5 +1,5 @@
 ---
-author: "Karson"
+author: "jarvan"
 title: "EFK日志监控平台部署架构"
 date: 2022-06-21
 description: "ElasticSearch、Fluentd、Kibana组成的日志监控平台"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: Karson
+author: jarvan
 authorEmoji: 👻
 tags:
 - docker 

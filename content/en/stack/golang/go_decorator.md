@@ -1,5 +1,5 @@
 ---
-author: "karson"
+author: "jarvan"
 title: "Golang的装饰器模式"
 date: 2021-01-01 00:00:09
 description: "装饰器模式可通过在接口中封装其它接口并添加行为来实现"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: karson
+author: jarvan
 authorEmoji: 👻
 tags: 
 - golang

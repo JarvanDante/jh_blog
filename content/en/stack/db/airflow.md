@@ -1,5 +1,5 @@
 ---
-author: "karson"
+author: "jarvan"
 title: "airflow调度系统"
 date: 2023-05-24
 description: "Apache Airflow是一个开源的任务调度和工作流管理平台，它使用Python编写，是一个以编程方式编写，安排和监视工作流的平台。"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: karson
+author: jarvan
 authorEmoji: 👻
 tags:
 - db

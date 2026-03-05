@@ -1,5 +1,5 @@
 ---
-author: "karson"
+author: "jarvan"
 title: "GO Modules依赖管理"
 date: 2022-12-02 00:00:01
 description: "依赖包管理是一个非常重要的内容，依赖包处理不好，就会导致编译失败"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: karson
+author: jarvan
 authorEmoji: 👻
 tags: 
 - golang

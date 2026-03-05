@@ -1,5 +1,5 @@
 ---
-author: "karson"
+author: "jarvan"
 title: "Figma-图层和编组类型"
 date: 2025-02-05
 description: "在Figma中，图层和编组是非常核心的概念，它们帮助设计师组织和管理设计元素"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: karson
+author: jarvan
 authorEmoji: 👻
 tags:
 - 产品

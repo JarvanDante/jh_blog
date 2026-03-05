@@ -1,5 +1,5 @@
 ---
-author: "Karson"
+author: "jarvan"
 title: "consul服务注册中心"
 date: 2023-05-19
 description: "consul服务注册中心"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: Karson
+author: jarvan
 authorEmoji: 👻
 tags:
 - knowledge

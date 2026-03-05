@@ -1,5 +1,5 @@
 ---
-author: "karson"
+author: "jarvan"
 title: "Nginx负载均衡中4层代理和7层代理的区别"
 date: 2022-01-01 00:00:01
 description: "Nginx负载均衡中4层代理和7层代理的区别"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: karson
+author: jarvan
 authorEmoji: 👻
 tags: 
 - linux

@@ -1,5 +1,5 @@
 ---
-author: "karson"
+author: "jarvan"
 title: "Kafka的重复消费和消息丢失问题"
 date: 2022-05-17
 description: "Kafka的重复消费和消息丢失问题"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: karson
+author: jarvan
 authorEmoji: 👻
 tags:
 - knowledge

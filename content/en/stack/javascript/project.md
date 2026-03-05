@@ -1,5 +1,5 @@
 ---
-author: "karson"
+author: "jarvan"
 title: "vue3实战项目"
 date: 2023-06-01
 description: "Vue.js是一种流行的JavaScript前端框架，用于构建用户界面。它是一种渐进式框架，可以逐步应用到项目中，也可以与其他库或现有项目进行整合。"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: karson
+author: jarvan
 authorEmoji: 👻
 tags:
 - javascript

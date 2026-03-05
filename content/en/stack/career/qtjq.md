@@ -1,5 +1,5 @@
 ---
-author: "karson"
+author: "jarvan"
 title: "4个倾听技术，让你和谁都聊得来"
 date: 2022-06-06 00:00:05
 description: "4个倾听技术，让你和谁都聊得来"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: karson
+author: jarvan
 authorEmoji: 👻
 tags:
 - career

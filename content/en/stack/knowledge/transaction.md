@@ -1,5 +1,5 @@
 ---
-author: "Karson"
+author: "jarvan"
 title: "分布式事务的常用解决方案"
 date: 2022-05-19
 description: "分布式事务的几种方案"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: Karson
+author: jarvan
 authorEmoji: 👻
 tags:
 - knowledge

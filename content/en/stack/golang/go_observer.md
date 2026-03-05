@@ -1,5 +1,5 @@
 ---
-author: "karson"
+author: "jarvan"
 title: "Golang的观察者模式"
 date: 2021-01-01 00:00:10
 description: "定义了对象之间的一对多依赖关系，使得当一个对象改变状态时，其所有依赖对象都会收到通知并自动更新"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: karson
+author: jarvan
 authorEmoji: 👻
 tags: 
 - golang

@@ -1,5 +1,5 @@
 ---
-author: "karson"
+author: "jarvan"
 title: "Golang的常用内置包简介"
 date: 2021-01-01 00:00:05
 description: "标准的Go语言代码库中包含了大量的包，并且在安装 Go 的时候多数会自动安装到系统中"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: karson
+author: jarvan
 authorEmoji: 👻
 tags: 
 - golang

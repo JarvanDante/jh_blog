@@ -1,5 +1,5 @@
 ---
-author: "karson"
+author: "jarvan"
 title: "响应式布局"
 date: 2022-07-03
 description: "一个网站能够兼容多个终端——而不是为每个终端做一个特定的版本。这个概念是为解决移动互联网浏览而诞生的"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: karson
+author: jarvan
 authorEmoji: 👻
 tags:
 - javascript

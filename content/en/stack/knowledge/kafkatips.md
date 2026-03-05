@@ -1,5 +1,5 @@
 ---
-author: "Karson"
+author: "jarvan"
 title: "golang中使用kafka的综合指南"
 date: 2022-05-17
 description: "golang中使用kafka的综合指南"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: Karson
+author: jarvan
 authorEmoji: 👻
 tags:
 - knowledge

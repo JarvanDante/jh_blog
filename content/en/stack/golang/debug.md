@@ -1,5 +1,5 @@
 ---
-author: "Karson"
+author: "jarvan"
 title: "debug相关"
 date: 2022-12-03 00:00:01
 description: "debug调试"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: Karson
+author: jarvan
 authorEmoji: 👻
 tags: 
 - golang

@@ -1,5 +1,5 @@
 ---
-author: "karson"
+author: "jarvan"
 title: "忠言如何不逆耳"
 date: 2022-06-06 00:00:01
 description: "忠言如何不逆耳"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: karson
+author: jarvan
 authorEmoji: 👻
 tags:
 - career

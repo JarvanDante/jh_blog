@@ -1,5 +1,5 @@
 ---
-author: "karson"
+author: "jarvan"
 title: "gin框架验证器validator"
 date: 2022-12-03 00:00:01
 description: "只需定义结构体使用binding或validate tag标识校验规则，就可以进行参数校验"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: karson
+author: jarvan
 authorEmoji: 👻
 tags: 
 - golang

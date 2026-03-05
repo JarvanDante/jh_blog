@@ -1,5 +1,5 @@
 ---
-author: "karson"
+author: "jarvan"
 title: "goroutine概念"
 date: 2022-11-03 00:00:01
 description: "Goroutine可以理解为一种Go语言的协程（轻量级线程)，是Go支持高并发的基础，属于用户态的线程，由Goruntime管理而不是操作系统。"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: karson
+author: jarvan
 authorEmoji: 👻
 tags: 
 - golang

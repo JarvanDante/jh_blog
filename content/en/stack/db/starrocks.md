@@ -1,5 +1,5 @@
 ---
-author: "karson"
+author: "jarvan"
 title: "StarRocks使用"
 date: 2023-06-25
 description: "高性能分析型数据仓库，使用向量化、MPP 架构、可实时更新的列式存储引擎等技术实现多维、实时、高并发的数据分析"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: karson
+author: jarvan
 authorEmoji: 👻
 tags:
 - db

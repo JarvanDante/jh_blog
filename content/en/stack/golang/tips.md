@@ -1,5 +1,5 @@
 ---
-author: "karson"
+author: "jarvan"
 title: "golang注意事项"
 date: 2021-01-02
 description: "golang开发中的一些小注意点整理"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: karson
+author: jarvan
 authorEmoji: 👻
 tags:
 - golang

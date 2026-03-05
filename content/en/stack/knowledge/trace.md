@@ -1,5 +1,5 @@
 ---
-author: "karson"
+author: "jarvan"
 title: "直播分布式系统的一致性"
 date: 2022-05-18
 description: "分布式系统的一致性。"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: karson
+author: jarvan
 authorEmoji: 👻
 tags:
 - knowledge

@@ -1,5 +1,5 @@
 ---
-author: "karson"
+author: "jarvan"
 title: "基础知识"
 date: 2021-01-01 00:00:01
 description: "Linux是一种开源的操作系统内核."
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: karson
+author: jarvan
 authorEmoji: 👻
 tags: 
 - linux

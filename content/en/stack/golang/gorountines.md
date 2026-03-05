@@ -1,5 +1,5 @@
 ---
-author: "karson"
+author: "jarvan"
 title: "goroutine并发实现"
 date: 2022-11-02 00:00:01
 description: "epoll是Linux操作系统中的一种事件通知机制，通过该机制可以同时监控多个文件描述符上的事件"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: karson
+author: jarvan
 authorEmoji: 👻
 tags: 
 - golang

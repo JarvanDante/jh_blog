@@ -1,5 +1,5 @@
 ---
-author: "Karson"
+author: "jarvan"
 title: "shell知识点"
 date: 2021-01-01 00:00:01
 description: "shell知识点"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: Karson
+author: jarvan
 authorEmoji: 👻
 tags: 
 - linux

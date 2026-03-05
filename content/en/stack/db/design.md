@@ -1,5 +1,5 @@
 ---
-author: "karson"
+author: "jarvan"
 title: "数仓模型设计原则"
 date: 2023-06-24
 description: "明确业务需求、清晰数据架构、有效维度建模、模块化可维护、数据质量保证、保证数据安全、可操作性和易用性"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: karson
+author: jarvan
 authorEmoji: 👻
 tags:
 - db

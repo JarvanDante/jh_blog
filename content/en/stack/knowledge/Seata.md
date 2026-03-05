@@ -1,5 +1,5 @@
 ---
-author: "Karson"
+author: "jarvan"
 title: "分布式事务框架 seata"
 date: 2023-05-19
 description: "Seata 开源的、高性能和简单易用的分布式事务服务。Seata 将为用户提供了 AT、TCC、SAGA 和 XA 事务模式，为用户打造一站式的分布式解决方案"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: Karson
+author: jarvan
 authorEmoji: 👻
 tags:
 - knowledge

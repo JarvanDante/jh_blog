@@ -1,5 +1,5 @@
 ---
-author: "Karson"
+author: "jarvan"
 title: "zookeeper、kafka、kafka-manager安装"
 date: 2022-05-16
 description: "zookeeper、kafka、kafka-manager安装"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: Karson
+author: jarvan
 authorEmoji: 👻
 tags:
 - knowledge

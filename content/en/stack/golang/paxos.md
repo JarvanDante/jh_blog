@@ -1,5 +1,5 @@
 ---
-author: "karson"
+author: "jarvan"
 title: "微服务保证事务的一致性"
 date: 2022-12-04 00:00:01
 description: "微服务架构下的事务一致性问题以及分布式事务的解决方案"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: karson
+author: jarvan
 authorEmoji: 👻
 tags:
 - golang

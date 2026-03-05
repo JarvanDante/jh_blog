@@ -1,5 +1,5 @@
 ---
-author: "karson"
+author: "jarvan"
 title: "StarRocks的Join 查询优化"
 date: 2023-05-22
 description: "介绍 StarRocks 在 Join 查询规划上的经验和探索。文章主要分为四个部分：Join 背景，Join 逻辑优化，Join Reorder，分布式 Join 规划。"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: karson
+author: jarvan
 authorEmoji: 👻
 tags:
 - db

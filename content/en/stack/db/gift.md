@@ -1,5 +1,5 @@
 ---
-author: "karson"
+author: "jarvan"
 title: "亿级仓库礼物的建设与演进"
 date: 2023-05-18
 description: "酷狗直播中亿级仓库礼物的建设与演进。"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: karson
+author: jarvan
 authorEmoji: 👻
 tags:
 - db

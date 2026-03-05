@@ -1,5 +1,5 @@
 ---
-author: "karson"
+author: "jarvan"
 title: "全链路压测实践"
 date: 2022-05-19
 description: "全链路压测（End-to-End（E2E） Performance Testing）是指对软件系统或服务进行综合性能测试的一种方法。"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: karson
+author: jarvan
 authorEmoji: 👻
 tags:
 - knowledge

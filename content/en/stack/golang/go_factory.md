@@ -1,5 +1,5 @@
 ---
-author: "karson"
+author: "jarvan"
 title: "Golang的工厂模式"
 date: 2021-01-01 00:00:08
 description: "工厂模式将对象的创建封装在一个类中，并提供一个公共接口来创建对象。在Go语言中，可以使用接口来实现工厂模式"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: karson
+author: jarvan
 authorEmoji: 👻
 tags: 
 - golang

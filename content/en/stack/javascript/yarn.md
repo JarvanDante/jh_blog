@@ -1,5 +1,5 @@
 ---
-author: "karson"
+author: "jarvan"
 title: "yarn包管理工具"
 date: 2022-07-02
 description: "yarn是一个包管理工具，它的作用是帮助开发者管理项目中的依赖包。使用yarn可以方便地安装、更新、卸载、查看依赖包。"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: karson
+author: jarvan
 authorEmoji: 👻
 tags:
 - javascript

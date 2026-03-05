@@ -1,5 +1,5 @@
 ---
-author: "karson"
+author: "jarvan"
 title: "StarRocks的执行计划"
 date: 2023-05-21
 description: "StarRocks是一个分布式的列式存储和分析数据库，它的执行计划是指数据库在执行查询时的操作顺序和方式。"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: karson
+author: jarvan
 authorEmoji: 👻
 tags:
 - db

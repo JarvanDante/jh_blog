@@ -1,5 +1,5 @@
 ---
-author: "karson"
+author: "jarvan"
 title: "Socket编程"
 date: 2022-11-03 00:00:01
 description: "Socket（套接字）是一种用于网络通信的编程接口，它提供了一种机制，使得不同计算机上的进程能够通过网络进行通信和交换数据"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: karson
+author: jarvan
 authorEmoji: 👻
 tags: 
 - linux

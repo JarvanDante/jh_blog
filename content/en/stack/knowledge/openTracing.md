@@ -1,5 +1,5 @@
 ---
-author: "Karson"
+author: "jarvan"
 title: "OpenTracing"
 date: 2023-05-20
 description: "分布式调用链标准 OpenTracing"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: Karson
+author: jarvan
 authorEmoji: 👻
 tags:
 - knowledge

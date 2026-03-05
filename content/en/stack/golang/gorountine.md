@@ -1,5 +1,5 @@
 ---
-author: "karson"
+author: "jarvan"
 title: "协程池的设计和原理"
 date: 2022-11-03 00:00:01
 description: "协程池是一种用于管理和复用协程的机制，它可以在并发编程中提供更好的性能和资源利用率"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: karson
+author: jarvan
 authorEmoji: 👻
 tags: 
 - golang

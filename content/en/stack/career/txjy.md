@@ -1,5 +1,5 @@
 ---
-author: "karson"
+author: "jarvan"
 title: "六个小策略教你成功推销建议"
 date: 2022-06-06 00:00:03
 description: "六个小策略教你成功推销建议"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: karson
+author: jarvan
 authorEmoji: 👻
 tags:
 - career

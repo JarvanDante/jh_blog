@@ -1,5 +1,5 @@
 ---
-author: "karson"
+author: "jarvan"
 title: "Golang包的GOPATH详解"
 date: 2021-01-01 00:00:03
 description: "GOPATH 是 Go语言中使用的一个环境变量，它使用绝对路径提供项目的工作目录"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: karson
+author: jarvan
 authorEmoji: 👻
 tags: 
 - golang

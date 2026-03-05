@@ -1,5 +1,5 @@
 ---
-author: "Karson"
+author: "jarvan"
 title: "mysql调优"
 date: 2022-08-25
 description: "索引、索引优化、SQL优化"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: Karson
+author: jarvan
 authorEmoji: 👻
 tags:
 - db

@@ -1,5 +1,5 @@
 ---
-author: "karson"
+author: "jarvan"
 title: "数仓建设规范"
 date: 2023-05-20
 description: "介绍企业IT数仓建设体系、架构和数据仓库开发规范，并附上实际案例加以说明，为数据仓库建设工作提供规范标准和指导建议。"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: karson
+author: jarvan
 authorEmoji: 👻
 tags:
 - db

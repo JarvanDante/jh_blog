@@ -1,5 +1,5 @@
 ---
-author: "karson"
+author: "jarvan"
 title: "Serverless"
 date: 2022-11-04 00:00:01
 description: "serverless狭义上是指Serverless computing 架构 = FaaS 架构 = Trigger(事件驱动)+FaaS(函数即服务)+BaaS(后端即服务，持久化或第三方服务)=FaaS + BaaS，广义上是指服务端免运维，也就是具有 Serverless 特性的云服务"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: karson
+author: jarvan
 authorEmoji: 👻
 tags: 
 - linux

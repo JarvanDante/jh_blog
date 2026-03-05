@@ -1,5 +1,5 @@
 ---
-author: "karson"
+author: "jarvan"
 title: "保证缓存和数据库的数据一致性"
 date: 2022-05-18
 description: "保证缓存和数据库的数据一致性"
@@ -7,7 +7,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: karson
+author: jarvan
 authorEmoji: 👻
 tags:
 - knowledge
