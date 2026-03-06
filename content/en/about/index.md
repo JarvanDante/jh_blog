@@ -5,7 +5,7 @@ type = "about"
 date = "2019-02-28"
 +++
 
-### <font color='#ffd866'>jh 项目（独立负责）</font>
+### <font color='#ffd866'>包网项目（独立负责）</font>
 
 2024-07-01 ~ 至今
 高级后端 / 架构负责人 | Golang 微服务 / Docker / 可观测
