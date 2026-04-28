@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>kibana on Home</title>
-    <link>http://wangjinbao.netlify.app/en/categories/kibana/</link>
+    <link>http://JarvanWang.netlify.app/en/categories/kibana/</link>
     <description>Recent content in kibana on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,20 +16,20 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Tue, 21 Jun 2022 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="http://wangjinbao.netlify.app/en/categories/kibana/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://JarvanWang.netlify.app/en/categories/kibana/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>EFK日志监控平台部署架构</title>
-        <link>http://wangjinbao.netlify.app/en/stack/k8s/efk/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/k8s/efk/</link>
         <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Tue, 21 Jun 2022 00:00:00 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/k8s/efk/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/k8s/efk/</guid>
         <description>组件介绍 ElasticSearch：日志存储 + 索引 + 搜索 Fluentd：日志采集、装饰、转换和传输 Kibana：日志查询展示 生产环境 + Kafka mi</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         

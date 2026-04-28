@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>bamoji on Home</title>
-    <link>http://wangjinbao.netlify.app/en/tags/bamoji/</link>
+    <link>http://JarvanWang.netlify.app/en/tags/bamoji/</link>
     <description>Recent content in bamoji on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,17 +16,17 @@
     <copyright>©2023, All Rights Reserved</copyright>
     <lastBuildDate>Mon, 16 Dec 2019 12:00:06 +0900</lastBuildDate>
     
-        <atom:link href="http://wangjinbao.netlify.app/en/tags/bamoji/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://JarvanWang.netlify.app/en/tags/bamoji/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Emoji Support</title>
-        <link>http://wangjinbao.netlify.app/en/posts/emoji-support/</link>
+        <link>http://JarvanWang.netlify.app/en/posts/emoji-support/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Mon, 16 Dec 2019 12:00:06 +0900</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/posts/emoji-support/</guid>
+        <guid>http://JarvanWang.netlify.app/en/posts/emoji-support/</guid>
         <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
         
         <dc:creator>Kim</dc:creator>

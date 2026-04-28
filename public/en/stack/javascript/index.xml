@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>javascript on Home</title>
-    <link>http://wangjinbao.netlify.app/en/stack/javascript/</link>
+    <link>http://JarvanWang.netlify.app/en/stack/javascript/</link>
     <description>Recent content in javascript on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,20 +16,20 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="http://wangjinbao.netlify.app/en/stack/javascript/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://JarvanWang.netlify.app/en/stack/javascript/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>vue3实战项目</title>
-        <link>http://wangjinbao.netlify.app/en/stack/javascript/project/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/javascript/project/</link>
         <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Thu, 01 Jun 2023 00:00:00 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/javascript/project/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/javascript/project/</guid>
         <description>PS: 查看所有npm全局变量 npm list -global 1 2 3 npm cache clean --force //清除npm缓存 npm init vue@latest 或 npm create vue@latest ✔ Project name: … vue3-project package.json中修改： 1 &amp;#34;dev&amp;#34;: &amp;#34;vite --host 172.19.0.13&amp;#34; 总结关键点：</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -48,14 +48,14 @@
       
       <item>
         <title>vue3框架</title>
-        <link>http://wangjinbao.netlify.app/en/stack/javascript/vue1/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/javascript/vue1/</link>
         <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Thu, 01 Jun 2023 00:00:00 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/javascript/vue1/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/javascript/vue1/</guid>
         <description>前期准备 插件 VScode + Vue Language Features (Volar) &amp;ndash; 高亮 edge 浏览器插件 vue devtools 创建项目 1 2 3 4 5 npm init vue@latest # 一路回车 npm install npm run dev npm run build docker外网访问，解决方法 1 2 3 4 5 6 7</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -74,14 +74,14 @@
       
       <item>
         <title>vue3简单例子</title>
-        <link>http://wangjinbao.netlify.app/en/stack/javascript/demo/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/javascript/demo/</link>
         <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Thu, 01 Jun 2023 00:00:00 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/javascript/demo/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/javascript/demo/</guid>
         <description>例子1 自定义属性、事件 src/App.vue 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -100,14 +100,14 @@
       
       <item>
         <title>Vue的debug调试</title>
-        <link>http://wangjinbao.netlify.app/en/stack/javascript/debugger/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/javascript/debugger/</link>
         <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Thu, 01 Jun 2023 00:00:00 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/javascript/debugger/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/javascript/debugger/</guid>
         <description>常用方式如下三种： 1.源代码中增加debugger 或 console.log 2.在Chrome浏览器Source中加断点 3.vscode中直接调试，对源码定位准确</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -126,14 +126,14 @@
       
       <item>
         <title>样式技巧</title>
-        <link>http://wangjinbao.netlify.app/en/stack/javascript/style/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/javascript/style/</link>
         <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Thu, 01 Jun 2023 00:00:00 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/javascript/style/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/javascript/style/</guid>
         <description>常用样式 vue中默认样式位置 1 2 3 src/assets/main.css src/assets/base.css 如不需要可以注释 清除所有的外边距和内边距 1 2 3 4 *{ margin:0; padding:0; } 并排排列 1 2 3 .box{ display:flex; } 垂直排部 1 2 3 .box{ align-items:center; } div 竖 排</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -152,14 +152,14 @@
       
       <item>
         <title>响应式布局</title>
-        <link>http://wangjinbao.netlify.app/en/stack/javascript/layout/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/javascript/layout/</link>
         <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Sun, 03 Jul 2022 00:00:00 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/javascript/layout/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/javascript/layout/</guid>
         <description>缺点 当一个网内容特别多(如：淘宝)的情况下，要一套代码响应多端这个工作比较繁琐，最关键的问题是移动端网站速度太慢了 SEO的问题 PS:问题：什</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -178,14 +178,14 @@
       
       <item>
         <title>yarn包管理工具</title>
-        <link>http://wangjinbao.netlify.app/en/stack/javascript/yarn/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/javascript/yarn/</link>
         <pubDate>Sat, 02 Jul 2022 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Sat, 02 Jul 2022 00:00:00 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/javascript/yarn/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/javascript/yarn/</guid>
         <description>支持Node版本 支持的node 版本： ^4.8.0 || ^5.7.0 || ^6.2.2 || &amp;gt;=8.0.0 yarn的优点 速度快： yarn使用并行安装和缓存机制，可以大大提高安装依赖包的速度。 稳定性</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -204,14 +204,14 @@
       
       <item>
         <title>通用后台管理系统</title>
-        <link>http://wangjinbao.netlify.app/en/stack/javascript/system/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/javascript/system/</link>
         <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Fri, 01 Jul 2022 00:00:00 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/javascript/system/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/javascript/system/</guid>
         <description>初步初始化项目 生成依赖文件package.json npm init -y 1 npm init -y 脚手架的安装 cnpm i -D @vue/cli 1 2 cnpm i -D @vue/cli 指定安装（cnpm i -D @vue/cli@4.</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         

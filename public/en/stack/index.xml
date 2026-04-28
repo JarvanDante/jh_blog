@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>技术栈 on Home</title>
-    <link>http://wangjinbao.netlify.app/en/stack/</link>
+    <link>http://JarvanWang.netlify.app/en/stack/</link>
     <description>Recent content in 技术栈 on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,17 +16,17 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 25 Jun 2023 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="http://wangjinbao.netlify.app/en/stack/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://JarvanWang.netlify.app/en/stack/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>db</title>
-        <link>http://wangjinbao.netlify.app/en/stack/db/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/db/</link>
         <pubDate>Sun, 25 Jun 2023 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         
-        <guid>http://wangjinbao.netlify.app/en/stack/db/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/db/</guid>
         <description></description>
         
         <dc:creator>Hugo Authors</dc:creator>
@@ -46,11 +46,11 @@
       
       <item>
         <title>k8s</title>
-        <link>http://wangjinbao.netlify.app/en/stack/k8s/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/k8s/</link>
         <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         
-        <guid>http://wangjinbao.netlify.app/en/stack/k8s/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/k8s/</guid>
         <description></description>
         
         <dc:creator>Hugo Authors</dc:creator>
@@ -70,11 +70,11 @@
       
       <item>
         <title>javascript</title>
-        <link>http://wangjinbao.netlify.app/en/stack/javascript/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/javascript/</link>
         <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         
-        <guid>http://wangjinbao.netlify.app/en/stack/javascript/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/javascript/</guid>
         <description></description>
         
         <dc:creator>Hugo Authors</dc:creator>
@@ -94,14 +94,14 @@
       
       <item>
         <title>经验知识</title>
-        <link>http://wangjinbao.netlify.app/en/stack/knowledge/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/knowledge/</link>
         <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         
-        <guid>http://wangjinbao.netlify.app/en/stack/knowledge/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/knowledge/</guid>
         <description></description>
         
-        <dc:creator>Wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -118,14 +118,14 @@
       
       <item>
         <title>golang</title>
-        <link>http://wangjinbao.netlify.app/en/stack/golang/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/golang/</link>
         <pubDate>Mon, 05 Dec 2022 00:00:01 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         
-        <guid>http://wangjinbao.netlify.app/en/stack/golang/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/golang/</guid>
         <description></description>
         
-        <dc:creator>Wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -142,14 +142,14 @@
       
       <item>
         <title>linux</title>
-        <link>http://wangjinbao.netlify.app/en/stack/linux/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/linux/</link>
         <pubDate>Fri, 04 Nov 2022 00:00:01 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         
-        <guid>http://wangjinbao.netlify.app/en/stack/linux/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/linux/</guid>
         <description></description>
         
-        <dc:creator>Wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -166,14 +166,14 @@
       
       <item>
         <title>career</title>
-        <link>http://wangjinbao.netlify.app/en/stack/career/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/career/</link>
         <pubDate>Mon, 06 Jun 2022 00:00:05 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         
-        <guid>http://wangjinbao.netlify.app/en/stack/career/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/career/</guid>
         <description></description>
         
-        <dc:creator>Wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -190,14 +190,14 @@
       
       <item>
         <title>python</title>
-        <link>http://wangjinbao.netlify.app/en/stack/python/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/python/</link>
         <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         
-        <guid>http://wangjinbao.netlify.app/en/stack/python/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/python/</guid>
         <description></description>
         
-        <dc:creator>Wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -214,14 +214,14 @@
       
       <item>
         <title>php</title>
-        <link>http://wangjinbao.netlify.app/en/stack/php/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/php/</link>
         <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         
-        <guid>http://wangjinbao.netlify.app/en/stack/php/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/php/</guid>
         <description></description>
         
-        <dc:creator>Wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         

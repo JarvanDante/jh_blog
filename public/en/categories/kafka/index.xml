@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>kafka on Home</title>
-    <link>http://wangjinbao.netlify.app/en/categories/kafka/</link>
+    <link>http://JarvanWang.netlify.app/en/categories/kafka/</link>
     <description>Recent content in kafka on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,20 +16,20 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Tue, 17 May 2022 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="http://wangjinbao.netlify.app/en/categories/kafka/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://JarvanWang.netlify.app/en/categories/kafka/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>golang中使用kafka的综合指南</title>
-        <link>http://wangjinbao.netlify.app/en/stack/knowledge/kafkatips/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/knowledge/kafkatips/</link>
         <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Tue, 17 May 2022 00:00:00 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/knowledge/kafkatips/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/knowledge/kafkatips/</guid>
         <description>背景 kafka 是一个比较流行的 分布式 、 可拓展 、 高性能 、 可靠性 的流处理平台。 在处理kafka的数据时，这里有 确保处理效率和可靠性的 多种最佳实践。 下面介</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -52,14 +52,14 @@
       
       <item>
         <title>Kafka的重复消费和消息丢失问题</title>
-        <link>http://wangjinbao.netlify.app/en/stack/knowledge/kafkaquestion/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/knowledge/kafkaquestion/</link>
         <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Tue, 17 May 2022 00:00:00 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/knowledge/kafkaquestion/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/knowledge/kafkaquestion/</guid>
         <description>介绍 在Kafka中，生产者（Producer） 和 消费者（Consumer） 是通过 发布订阅模式 进行协作的，生产者将消息发送到Kafka集群，而</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -82,14 +82,14 @@
       
       <item>
         <title>微服务架构之幂等性问题</title>
-        <link>http://wangjinbao.netlify.app/en/stack/knowledge/manyquest/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/knowledge/manyquest/</link>
         <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Tue, 17 May 2022 00:00:00 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/knowledge/manyquest/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/knowledge/manyquest/</guid>
         <description>前言 小伙伴们有没有遇到过生产环境经常出现过重复的数据？在排查问题的时候，数据又是正常的。这个是何解呢？怎么会出现这种情况，而且还很难排查问题</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -112,14 +112,14 @@
       
       <item>
         <title>zookeeper、kafka、kafka-manager安装</title>
-        <link>http://wangjinbao.netlify.app/en/stack/knowledge/kafka/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/knowledge/kafka/</link>
         <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Mon, 16 May 2022 00:00:00 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/knowledge/kafka/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/knowledge/kafka/</guid>
         <description>新建Dockerfile 新建文件夹zookeeper、kafka、kafka-manager，并添加相应的Dockerfile zookeep</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         

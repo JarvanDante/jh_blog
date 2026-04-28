@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>docker on Home</title>
-    <link>http://wangjinbao.netlify.app/en/tags/docker/</link>
+    <link>http://JarvanWang.netlify.app/en/tags/docker/</link>
     <description>Recent content in docker on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,20 +16,20 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Wed, 22 Jun 2022 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="http://wangjinbao.netlify.app/en/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://JarvanWang.netlify.app/en/tags/docker/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>本地部署k8s集群及包管理工具使用</title>
-        <link>http://wangjinbao.netlify.app/en/stack/k8s/k8s1/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/k8s/k8s1/</link>
         <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Wed, 22 Jun 2022 00:00:00 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/k8s/k8s1/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/k8s/k8s1/</guid>
         <description>1 minikube搭建kubernetes集群环境 1.1 安装minikube minikube的安装： 1 2 3 4 5 6 7 8 9 # macOS brew install minikube # Windows choco install minikube # Linux curl</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -56,14 +56,14 @@
       
       <item>
         <title>EFK日志监控平台部署架构</title>
-        <link>http://wangjinbao.netlify.app/en/stack/k8s/efk/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/k8s/efk/</link>
         <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Tue, 21 Jun 2022 00:00:00 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/k8s/efk/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/k8s/efk/</guid>
         <description>组件介绍 ElasticSearch：日志存储 + 索引 + 搜索 Fluentd：日志采集、装饰、转换和传输 Kibana：日志查询展示 生产环境 + Kafka mi</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -98,14 +98,14 @@
       
       <item>
         <title>minikube安装(单机集群)</title>
-        <link>http://wangjinbao.netlify.app/en/stack/k8s/minukube/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/k8s/minukube/</link>
         <pubDate>Sat, 21 May 2022 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Sat, 21 May 2022 00:00:00 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/k8s/minukube/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/k8s/minukube/</guid>
         <description>资源调整 原docker desktop中的配置： 关闭k8x：勾掉 Enable Kubernetes 也可调配置：降低 2h4G 安装minikube 安装kubectl 地址： https://kubernetes.io/docs/tasks/tools/ 本是mac</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -128,14 +128,14 @@
       
       <item>
         <title>ssh无密码登录容器</title>
-        <link>http://wangjinbao.netlify.app/en/stack/k8s/sshlogin/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/k8s/sshlogin/</link>
         <pubDate>Sun, 23 May 2021 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Sun, 23 May 2021 00:00:00 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/k8s/sshlogin/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/k8s/sshlogin/</guid>
         <description>目录 ├── Dockerfile ├── authorized_keys └── run.sh authorized_keys文件生成 authorized_keys文件生成： 1 2 3 4 ssh-keygen -t rsa cat ~/.ssh/id_rsa.pub cat ~/.ssh/id_rsa.pub &amp;gt; ~/.ssh/authorized_keys cp /root/.ssh/authorized_keys . run.sh</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -154,14 +154,14 @@
       
       <item>
         <title>十个实验熟练掌握Docker</title>
-        <link>http://wangjinbao.netlify.app/en/stack/k8s/docker/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/k8s/docker/</link>
         <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Fri, 21 May 2021 00:00:00 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/k8s/docker/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/k8s/docker/</guid>
         <description>目标 用Docker搭建一套三层架构的Web系统（nodejs+PHP+MySQL） 掌握日常使用Docker进行程序开发、配置和发布的方法与原</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         

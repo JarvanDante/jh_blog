@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Publications on Home</title>
-    <link>http://wangjinbao.netlify.app/en/publication/</link>
+    <link>http://JarvanWang.netlify.app/en/publication/</link>
     <description>Recent content in Publications on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,20 +16,20 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 05 Mar 2020 14:08:48 +0000</lastBuildDate>
     
-        <atom:link href="http://wangjinbao.netlify.app/en/publication/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://JarvanWang.netlify.app/en/publication/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>article</title>
-        <link>http://wangjinbao.netlify.app/en/publication/article/</link>
+        <link>http://JarvanWang.netlify.app/en/publication/article/</link>
         <pubDate>Thu, 05 Mar 2020 14:08:48 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Thu, 05 Mar 2020 14:08:48 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/publication/article/</guid>
+        <guid>http://JarvanWang.netlify.app/en/publication/article/</guid>
         <description></description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -40,14 +40,14 @@
       
       <item>
         <title>book</title>
-        <link>http://wangjinbao.netlify.app/en/publication/book/</link>
+        <link>http://JarvanWang.netlify.app/en/publication/book/</link>
         <pubDate>Thu, 05 Mar 2020 14:08:48 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Thu, 05 Mar 2020 14:08:48 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/publication/book/</guid>
+        <guid>http://JarvanWang.netlify.app/en/publication/book/</guid>
         <description></description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -58,14 +58,14 @@
       
       <item>
         <title>misc</title>
-        <link>http://wangjinbao.netlify.app/en/publication/misc/</link>
+        <link>http://JarvanWang.netlify.app/en/publication/misc/</link>
         <pubDate>Thu, 05 Mar 2020 14:08:48 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Thu, 05 Mar 2020 14:08:48 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/publication/misc/</guid>
+        <guid>http://JarvanWang.netlify.app/en/publication/misc/</guid>
         <description></description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         

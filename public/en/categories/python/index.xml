@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>python on Home</title>
-    <link>http://wangjinbao.netlify.app/en/categories/python/</link>
+    <link>http://JarvanWang.netlify.app/en/categories/python/</link>
     <description>Recent content in python on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,21 +16,21 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 25 Jan 2020 06:40:51 +0900</lastBuildDate>
     
-        <atom:link href="http://wangjinbao.netlify.app/en/categories/python/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://JarvanWang.netlify.app/en/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>django框架</title>
-        <link>http://wangjinbao.netlify.app/en/posts/django/</link>
+        <link>http://JarvanWang.netlify.app/en/posts/django/</link>
         <pubDate>Sat, 25 Jan 2020 06:40:51 +0900</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Sat, 25 Jan 2020 06:40:51 +0900</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/posts/django/</guid>
+        <guid>http://JarvanWang.netlify.app/en/posts/django/</guid>
         <description>一、安装 pip 安装 pip install django 安装成功后会有 django-admin 命令 创建新项目 django-admin startproject website(项目名) 开启项目 python manage.py startapp app &amp;ndash;不能重名 启动项目 python manage.py runserver 指定 IP+</description>
         
-        <dc:creator>wangjinbao</dc:creator>
-        <media:content url="http://wangjinbao.netlify.appimages/feature3/django.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <dc:creator>JarvanWang</dc:creator>
+        <media:content url="http://JarvanWang.netlify.appimages/feature3/django.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -56,15 +56,15 @@
       
       <item>
         <title>django框架</title>
-        <link>http://wangjinbao.netlify.app/en/stack/python/django/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/python/django/</link>
         <pubDate>Sat, 25 Jan 2020 06:40:51 +0900</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Sat, 25 Jan 2020 06:40:51 +0900</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/python/django/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/python/django/</guid>
         <description>一、安装 pip 安装 pip install django 安装成功后会有 django-admin 命令 创建新项目 django-admin startproject website(项目名) 开启项目 python manage.py startapp app &amp;ndash;不能重名 启动项目 python manage.py runserver 指定 IP+</description>
         
-        <dc:creator>wangjinbao</dc:creator>
-        <media:content url="http://wangjinbao.netlify.appimages/feature3/django.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <dc:creator>JarvanWang</dc:creator>
+        <media:content url="http://JarvanWang.netlify.appimages/feature3/django.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>golang on Home</title>
-    <link>http://wangjinbao.netlify.app/en/tags/golang/</link>
+    <link>http://JarvanWang.netlify.app/en/tags/golang/</link>
     <description>Recent content in golang on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,20 +16,20 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Mon, 05 Dec 2022 00:00:01 +0000</lastBuildDate>
     
-        <atom:link href="http://wangjinbao.netlify.app/en/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://JarvanWang.netlify.app/en/tags/golang/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>gorilla/websocket</title>
-        <link>http://wangjinbao.netlify.app/en/stack/golang/gin_gorilla/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/golang/gin_gorilla/</link>
         <pubDate>Mon, 05 Dec 2022 00:00:01 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Mon, 05 Dec 2022 00:00:01 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/golang/gin_gorilla/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/golang/gin_gorilla/</guid>
         <description>基础知识 webSocket是什么 websocket是一种在单个tcp上进行 全双工通信 的协议，长连接，双向传输 第三方包：go get -u -v github.com/gorilla/websocket webso</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -48,14 +48,14 @@
       
       <item>
         <title>kratos框架项目实践</title>
-        <link>http://wangjinbao.netlify.app/en/stack/golang/kratos_project/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/golang/kratos_project/</link>
         <pubDate>Mon, 05 Dec 2022 00:00:01 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Mon, 05 Dec 2022 00:00:01 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/golang/kratos_project/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/golang/kratos_project/</guid>
         <description>1.在项目根目录下新建models目录： 2.下载gorm包 1 2 3 4 5 6 7 8 9 10 11 12 13 $ go get -u gorm.io/gorm go: downloading gorm.io/gorm v1.25.5 go: downloading github.com/jinzhu/now v1.1.5 go: added github.com/jinzhu/inflection v1.0.0 go: added github.com/jinzhu/now v1.1.5 go: added gorm.io/gorm v1.25.5 $ go get</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -74,14 +74,14 @@
       
       <item>
         <title>对称加密算法AES/DES/3DES和非对称加密算法RSA</title>
-        <link>http://wangjinbao.netlify.app/en/stack/golang/go_crypt/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/golang/go_crypt/</link>
         <pubDate>Sun, 04 Dec 2022 00:00:01 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Sun, 04 Dec 2022 00:00:01 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/golang/go_crypt/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/golang/go_crypt/</guid>
         <description>对称加密算法 特点 加密和解密使用的是同一个密钥，数据私密性双向保证，也就是加密和解密都不能泄露密码 优缺点 优点：加密效率高，适合大些的数据加密 缺</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -100,14 +100,14 @@
       
       <item>
         <title>微服务保证事务的一致性</title>
-        <link>http://wangjinbao.netlify.app/en/stack/golang/paxos/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/golang/paxos/</link>
         <pubDate>Sun, 04 Dec 2022 00:00:01 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Sun, 04 Dec 2022 00:00:01 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/golang/paxos/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/golang/paxos/</guid>
         <description>事务的介绍 1.事务 1.1事务的产生 数据库 中的数据是 共享资源 ，因此数据库系统需要支持多个用户或不同应用程序的访问，并且各个访问进程都是独立执行</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -126,14 +126,14 @@
       
       <item>
         <title>consul安装</title>
-        <link>http://wangjinbao.netlify.app/en/stack/golang/consul/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/golang/consul/</link>
         <pubDate>Sat, 03 Dec 2022 00:00:01 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Sat, 03 Dec 2022 00:00:01 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/golang/consul/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/golang/consul/</guid>
         <description>consul 官方网站： https://consul.io/ 安装consul 方式一：macOS系统： 1 2 3 4 brew tap hashicorp/tap brew install hashicorp/tap/consul //检查版本号 consul version 方式二：linux系统： Debian&amp;ndash; 1 2 3 wget -O- https://apt.releases.hashicorp.com/gpg | sudo gpg --dearmor -o</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -156,14 +156,14 @@
       
       <item>
         <title>debug相关</title>
-        <link>http://wangjinbao.netlify.app/en/stack/golang/debug/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/golang/debug/</link>
         <pubDate>Sat, 03 Dec 2022 00:00:01 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Sat, 03 Dec 2022 00:00:01 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/golang/debug/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/golang/debug/</guid>
         <description>常见问题解决 version of Delve is too old for Go 问题： goland开启debug一直connected的问题 undefined behavior - version of Delve is too old for Go 解决： golang的调试器是d</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -186,14 +186,14 @@
       
       <item>
         <title>gin框架验证器validator</title>
-        <link>http://wangjinbao.netlify.app/en/stack/golang/gin_validator/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/golang/gin_validator/</link>
         <pubDate>Sat, 03 Dec 2022 00:00:01 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Sat, 03 Dec 2022 00:00:01 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/golang/gin_validator/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/golang/gin_validator/</guid>
         <description>安装 地址：github.com/go-playground/validator/v10 命令： 1 go get github.com/go-playground/validator/v10 模式绑定 若要将请求主体绑定到结构体中，请</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -212,14 +212,14 @@
       
       <item>
         <title>kratos微服务框架</title>
-        <link>http://wangjinbao.netlify.app/en/stack/golang/kratos/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/golang/kratos/</link>
         <pubDate>Sat, 03 Dec 2022 00:00:01 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Sat, 03 Dec 2022 00:00:01 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/golang/kratos/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/golang/kratos/</guid>
         <description>kratos 优势 比对项 内容 框架名 kratos 维护公司 Bilibli 项目地址 https://github.com/go-kratos/kratos star数 21.7k 开源时间 2019年 服务治理 服务注册/发现、负载均衡、熔断、限流、异常恢复、监控、链路</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -238,14 +238,14 @@
       
       <item>
         <title>微服务</title>
-        <link>http://wangjinbao.netlify.app/en/stack/golang/microservices/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/golang/microservices/</link>
         <pubDate>Sat, 03 Dec 2022 00:00:01 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Sat, 03 Dec 2022 00:00:01 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/golang/microservices/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/golang/microservices/</guid>
         <description>PS: 微服务架构 是一种设计方法; 而 微服务 这是应该指使用这种方法而设计的一个应用。 微服务架构 定义：将复杂的系统使用 组件化 的方式进行拆分，并使用轻量</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -264,14 +264,14 @@
       
       <item>
         <title>GO Modules依赖管理</title>
-        <link>http://wangjinbao.netlify.app/en/stack/golang/mod/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/golang/mod/</link>
         <pubDate>Fri, 02 Dec 2022 00:00:01 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Fri, 02 Dec 2022 00:00:01 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/golang/mod/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/golang/mod/</guid>
         <description>Go Modules 简介 Go Modules 是 Go 官方推出的一个 Go 包管理方案 特性 可以使包的管理更加简单 支持版本管理 允许同一个模块多个版本共存 可以校验依赖包的哈希值，确保包的一</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -290,14 +290,14 @@
       
       <item>
         <title>goroutine概念</title>
-        <link>http://wangjinbao.netlify.app/en/stack/golang/process/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/golang/process/</link>
         <pubDate>Thu, 03 Nov 2022 00:00:01 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Thu, 03 Nov 2022 00:00:01 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/golang/process/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/golang/process/</guid>
         <description>进程 进程(Process)就是程序在操作系统中的 一次执行过程， 是系统进行资源分配和调度的基本单位，进程是一个动态概念，是程序在执行过程中分配</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -316,14 +316,14 @@
       
       <item>
         <title>协程池的设计和原理</title>
-        <link>http://wangjinbao.netlify.app/en/stack/golang/gorountine/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/golang/gorountine/</link>
         <pubDate>Thu, 03 Nov 2022 00:00:01 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Thu, 03 Nov 2022 00:00:01 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/golang/gorountine/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/golang/gorountine/</guid>
         <description>协程池 协程池是一种用于管理和复用协程的机制，它可以在并发编程中提供更好的性能和资源利用率。 在Go语言中，协程池可以通过使用 goroutine 和 channel 来实现。 原理</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -342,14 +342,14 @@
       
       <item>
         <title>goroutine并发实现</title>
-        <link>http://wangjinbao.netlify.app/en/stack/golang/gorountines/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/golang/gorountines/</link>
         <pubDate>Wed, 02 Nov 2022 00:00:01 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Wed, 02 Nov 2022 00:00:01 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/golang/gorountines/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/golang/gorountines/</guid>
         <description>常见并发模型 进程&amp;amp;线程(apache) C10K:C10K problem是指如何让服务器能够支持10k并发，当然你可以买昂贵的服务器，但是还有更便宜的</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -368,15 +368,15 @@
       
       <item>
         <title>go开发者成长路线图</title>
-        <link>http://wangjinbao.netlify.app/en/posts/grow_up/</link>
+        <link>http://JarvanWang.netlify.app/en/posts/grow_up/</link>
         <pubDate>Wed, 08 Jun 2022 12:00:06 +0900</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Wed, 08 Jun 2022 12:00:06 +0900</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/posts/grow_up/</guid>
+        <guid>http://JarvanWang.netlify.app/en/posts/grow_up/</guid>
         <description></description>
         
-        <dc:creator>wangjinbao</dc:creator>
-        <media:content url="http://wangjinbao.netlify.appimages/feature3/img_2.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <dc:creator>JarvanWang</dc:creator>
+        <media:content url="http://JarvanWang.netlify.appimages/feature3/img_2.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -398,14 +398,14 @@
       
       <item>
         <title>Golang垃圾回收原理分析</title>
-        <link>http://wangjinbao.netlify.app/en/stack/golang/go_memery_analysis/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/golang/go_memery_analysis/</link>
         <pubDate>Sun, 06 Feb 2022 00:00:01 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Sun, 06 Feb 2022 00:00:01 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/golang/go_memery_analysis/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/golang/go_memery_analysis/</guid>
         <description>垃圾回收算法 垃圾回收（Garbage Collection，简称 GC）是一种内存管理策略，由垃圾收集器以类似 守护协程 的方式在后台运作，按照既定</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -424,14 +424,14 @@
       
       <item>
         <title>Golang的sync包与锁</title>
-        <link>http://wangjinbao.netlify.app/en/stack/golang/go_package_sync/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/golang/go_package_sync/</link>
         <pubDate>Sun, 06 Feb 2022 00:00:01 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Sun, 06 Feb 2022 00:00:01 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/golang/go_package_sync/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/golang/go_package_sync/</guid>
         <description>背景 为什么需要锁？ 锁是 sync 包中的核心，它主要有两个方法，分别是 加锁（Lock）和 解锁（Unlock）。 在并发的情况下，多个线程或协程同时其修改</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -450,14 +450,14 @@
       
       <item>
         <title>Golang的内存管理</title>
-        <link>http://wangjinbao.netlify.app/en/stack/golang/go_memery_cms/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/golang/go_memery_cms/</link>
         <pubDate>Sat, 05 Feb 2022 00:00:01 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Sat, 05 Feb 2022 00:00:01 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/golang/go_memery_cms/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/golang/go_memery_cms/</guid>
         <description>思想 1.以空间换时间，一次缓存，多次复用 go中的堆 mheap 正是&amp;quot;缓存&amp;quot;的思想。 堆mheap的特点： 对于操作系统，是用户进程中缓</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -476,14 +476,14 @@
       
       <item>
         <title>Golang的常用命令</title>
-        <link>http://wangjinbao.netlify.app/en/stack/golang/go_commond/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/golang/go_commond/</link>
         <pubDate>Sat, 05 Feb 2022 00:00:01 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Sat, 05 Feb 2022 00:00:01 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/golang/go_commond/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/golang/go_commond/</guid>
         <description>go list (列出包和模块信息) go list在项目的根目录，go.mod目录，输出module名称 usage: go list [-f format] [-json] [-m] [list flags] [build flags] [packages] 用法: go list [-f format] [-json] [-m] [list flags] [build flags] [</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -502,14 +502,14 @@
       
       <item>
         <title>goframe框架集成任务队列machinery和定时任务</title>
-        <link>http://wangjinbao.netlify.app/en/stack/golang/goframe_machinery/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/golang/goframe_machinery/</link>
         <pubDate>Wed, 01 Dec 2021 12:00:06 +0900</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Wed, 01 Dec 2021 12:00:06 +0900</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/golang/goframe_machinery/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/golang/goframe_machinery/</guid>
         <description>Machinery Golang的分布式任务队列还不算多，目前比较成熟的应该就只有 Machinery 了。 如果熟悉Python中的异步任务框架的话，想必一定听过Celery。 异</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -528,14 +528,14 @@
       
       <item>
         <title>goframe框架-2</title>
-        <link>http://wangjinbao.netlify.app/en/stack/golang/goframe2/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/golang/goframe2/</link>
         <pubDate>Wed, 03 Feb 2021 01:01:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Wed, 03 Feb 2021 01:01:00 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/golang/goframe2/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/golang/goframe2/</guid>
         <description>命令管理 GetArg*参数获取 GetArg 方法用以获取默认解析的命令行参数，参数通过输入索引位置获取，索引位置从 0 开始，但往往我们需要获取的参数是从 1</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -554,14 +554,14 @@
       
       <item>
         <title>goframe框架-1</title>
-        <link>http://wangjinbao.netlify.app/en/stack/golang/goframe1/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/golang/goframe1/</link>
         <pubDate>Tue, 02 Feb 2021 01:01:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Tue, 02 Feb 2021 01:01:00 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/golang/goframe1/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/golang/goframe1/</guid>
         <description>手动编译安装 这是万能的安装方式： 1 git clone https://github.com/gogf/gf &amp;amp;&amp;amp; cd gf/cmd/gf &amp;amp;&amp;amp; go install 验证安装成功 1 2 3 4 5 $ gf -v GoFrame CLI Tool v2.2.1, https://goframe.org GoFrame Version: cannot find goframe requirement in go.mod CLI Installed At: /usr/local/go/bin/gf Current is a custom installed version, no installation information. 创建项目</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -580,14 +580,14 @@
       
       <item>
         <title>goframe目录</title>
-        <link>http://wangjinbao.netlify.app/en/stack/golang/gofamedir/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/golang/gofamedir/</link>
         <pubDate>Mon, 01 Feb 2021 01:01:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Mon, 01 Feb 2021 01:01:00 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/golang/gofamedir/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/golang/gofamedir/</guid>
         <description>一、工程目录结构 GoFrame业务项目基本目录结构如下（以Single Repo为例）： 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 / ├── api ├── hack</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -606,14 +606,14 @@
       
       <item>
         <title>学习go(第二部分)</title>
-        <link>http://wangjinbao.netlify.app/en/stack/golang/go_part2/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/golang/go_part2/</link>
         <pubDate>Mon, 04 Jan 2021 01:01:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Mon, 04 Jan 2021 01:01:00 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/golang/go_part2/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/golang/go_part2/</guid>
         <description>一、基本结构与基本数据类型 1、文件名、关键字与标识符 1.1 文件名 文件名 均由小写字母组成，如 scanner.go。 如果文件名由多个部分组成，则使用</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -632,14 +632,14 @@
       
       <item>
         <title>学习go(第一部分)</title>
-        <link>http://wangjinbao.netlify.app/en/stack/golang/go_part1/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/golang/go_part1/</link>
         <pubDate>Sun, 03 Jan 2021 01:01:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Sun, 03 Jan 2021 01:01:00 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/golang/go_part1/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/golang/go_part1/</guid>
         <description>一、起源与发展 起源 Go 语言起源 2007 年，并于 2009 年正式对外发布。它从 2009 年 9 月 21 日开始作为谷歌公司 20% 兼职项目，即相关员工利用 20% 的空余时间来参与 Go 语言的</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -658,14 +658,14 @@
       
       <item>
         <title>linux安装golang</title>
-        <link>http://wangjinbao.netlify.app/en/stack/golang/install_linux/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/golang/install_linux/</link>
         <pubDate>Sat, 02 Jan 2021 01:01:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Sat, 02 Jan 2021 01:01:00 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/golang/install_linux/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/golang/install_linux/</guid>
         <description>一、下载 去官网下载 ，国内地址：https://golang.google.cn/dl/ 1 $ wget https://golang.google.cn/dl/go1.16.7.linux-amd64.tar.gz 二、解压(需要root权限) 1 $ sudo tar -C /usr/local -xzf go1.16.7.linux-amd64.tar.gz 三</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -684,14 +684,14 @@
       
       <item>
         <title>golang注意事项</title>
-        <link>http://wangjinbao.netlify.app/en/stack/golang/tips/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/golang/tips/</link>
         <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Sat, 02 Jan 2021 00:00:00 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/golang/tips/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/golang/tips/</guid>
         <description>1、左大括号 { 不能单独放一行 在其他大多数语言中，{ 的位置你自行决定。Go比较特别，遵守分号注入规则（automatic semicolon injection）</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -710,14 +710,14 @@
       
       <item>
         <title>golang安装、配置及版本升级</title>
-        <link>http://wangjinbao.netlify.app/en/stack/golang/get_started/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/golang/get_started/</link>
         <pubDate>Fri, 01 Jan 2021 01:01:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Fri, 01 Jan 2021 01:01:00 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/golang/get_started/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/golang/get_started/</guid>
         <description>一、下载 去官网下载 ，国内地址：https://golang.google.cn/dl/ 选择对应的版本即可，我本地使用的是https://go</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -736,14 +736,14 @@
       
       <item>
         <title>Golang的观察者模式</title>
-        <link>http://wangjinbao.netlify.app/en/stack/golang/go_observer/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/golang/go_observer/</link>
         <pubDate>Fri, 01 Jan 2021 00:00:10 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Fri, 01 Jan 2021 00:00:10 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/golang/go_observer/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/golang/go_observer/</guid>
         <description>定义了对象之间的一对多依赖关系，使得当一个对象改变状态时，其所有依赖对象都会收到通知并自动更新 *个人理解说法： 步骤1 定义一个观察者的接口，有</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -766,14 +766,14 @@
       
       <item>
         <title>Golang的装饰器模式</title>
-        <link>http://wangjinbao.netlify.app/en/stack/golang/go_decorator/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/golang/go_decorator/</link>
         <pubDate>Fri, 01 Jan 2021 00:00:09 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Fri, 01 Jan 2021 00:00:09 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/golang/go_decorator/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/golang/go_decorator/</guid>
         <description>装饰器模式可通过在接口中封装其它接口并添加行为来实现 如下： 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 package main import &amp;#34;fmt&amp;#34; type Component interface { Operation() string } type</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -796,14 +796,14 @@
       
       <item>
         <title>Golang的工厂模式</title>
-        <link>http://wangjinbao.netlify.app/en/stack/golang/go_factory/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/golang/go_factory/</link>
         <pubDate>Fri, 01 Jan 2021 00:00:08 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Fri, 01 Jan 2021 00:00:08 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/golang/go_factory/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/golang/go_factory/</guid>
         <description>通过工厂方法创建对象，而无需指定创建对象的具体类 如下： 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -826,14 +826,14 @@
       
       <item>
         <title>Golang的单例模式</title>
-        <link>http://wangjinbao.netlify.app/en/stack/golang/go_singleton/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/golang/go_singleton/</link>
         <pubDate>Fri, 01 Jan 2021 00:00:07 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Fri, 01 Jan 2021 00:00:07 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/golang/go_singleton/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/golang/go_singleton/</guid>
         <description>对于设计模式，更多的则是仁者见仁智者见智，要在实际工作中不断的积累，再进行深度的思考，才能逐渐形成的一种思维。 单例模式 也叫单子模式，是常用的</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -856,14 +856,14 @@
       
       <item>
         <title>Golang的常用内置包简介</title>
-        <link>http://wangjinbao.netlify.app/en/stack/golang/go_pkg_normal/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/golang/go_pkg_normal/</link>
         <pubDate>Fri, 01 Jan 2021 00:00:05 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Fri, 01 Jan 2021 00:00:05 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/golang/go_pkg_normal/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/golang/go_pkg_normal/</guid>
         <description>标准的Go语言代码库中包含了大量的包，并且在安装 Go 的时候多数会自动安装到系统中。我们可以在 $GOROOT/src/pkg 目录中查看这些包。下面简单介绍一些我们开发中常用</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -882,14 +882,14 @@
       
       <item>
         <title>Golang包的GOPATH详解</title>
-        <link>http://wangjinbao.netlify.app/en/stack/golang/go_gopath/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/golang/go_gopath/</link>
         <pubDate>Fri, 01 Jan 2021 00:00:03 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Fri, 01 Jan 2021 00:00:03 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/golang/go_gopath/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/golang/go_gopath/</guid>
         <description>GOPATH GOPATH 是 Go语言中使用的一个 环境变量 ，它使用绝对路径提供项目的工作目录 工作目录 是一个工程开发的相对参考目录，好比当你要在公司编写一套服务器代码</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -908,14 +908,14 @@
       
       <item>
         <title>Golang包的基本概念</title>
-        <link>http://wangjinbao.netlify.app/en/stack/golang/go_package/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/golang/go_package/</link>
         <pubDate>Fri, 01 Jan 2021 00:00:01 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Fri, 01 Jan 2021 00:00:01 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/golang/go_package/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/golang/go_package/</guid>
         <description>任何源代码文件必须属于某个包，同时源码文件的第一行有效代码必须是package pacakgeName语句，通过该语句声明自己所在的包 包的基本</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -934,14 +934,14 @@
       
       <item>
         <title>Golang的封装和实现</title>
-        <link>http://wangjinbao.netlify.app/en/stack/golang/go_package_achieve/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/golang/go_package_achieve/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         
-        <guid>http://wangjinbao.netlify.app/en/stack/golang/go_package_achieve/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/golang/go_package_achieve/</guid>
         <description>封装 在Go语言中封装 就是 把 抽象出来的字段 和 对字段的操作 封装在一起，数据被保护在内部，程序的其它包只能通过被授权的方法，才能对字段进行操作 封装</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         

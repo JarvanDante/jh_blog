@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Tags on Hugo Zzo Theme</title>
-    <link>http://wangjinbao.netlify.app/ko/tags/</link>
+    <link>http://JarvanWang.netlify.app/ko/tags/</link>
     <description>Recent content in Tags on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
@@ -15,20 +15,20 @@
     <webMaster>jarvaniv0611@gmail.com (Karson)</webMaster>
     <copyright>©2024, All Rights Reserved</copyright>
     
-        <atom:link href="http://wangjinbao.netlify.app/ko/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://JarvanWang.netlify.app/ko/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>index</title>
-        <link>http://wangjinbao.netlify.app/ko/tags/index/</link>
+        <link>http://JarvanWang.netlify.app/ko/tags/index/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         
-        <guid>http://wangjinbao.netlify.app/ko/tags/index/</guid>
+        <guid>http://JarvanWang.netlify.app/ko/tags/index/</guid>
         <description></description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         

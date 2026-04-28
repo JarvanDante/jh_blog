@@ -1,6 +1,6 @@
 +++
 title = "经验知识"
-author = "Wangjinbao"
+author = "JarvanWang"
 tags = ["index"]
 description = "经验知识"
 reading-time = 120

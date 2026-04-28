@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>minikube on Home</title>
-    <link>http://wangjinbao.netlify.app/en/categories/minikube/</link>
+    <link>http://JarvanWang.netlify.app/en/categories/minikube/</link>
     <description>Recent content in minikube on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,20 +16,20 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Wed, 22 Jun 2022 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="http://wangjinbao.netlify.app/en/categories/minikube/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://JarvanWang.netlify.app/en/categories/minikube/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>本地部署k8s集群及包管理工具使用</title>
-        <link>http://wangjinbao.netlify.app/en/stack/k8s/k8s1/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/k8s/k8s1/</link>
         <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Wed, 22 Jun 2022 00:00:00 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/k8s/k8s1/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/k8s/k8s1/</guid>
         <description>1 minikube搭建kubernetes集群环境 1.1 安装minikube minikube的安装： 1 2 3 4 5 6 7 8 9 # macOS brew install minikube # Windows choco install minikube # Linux curl</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         

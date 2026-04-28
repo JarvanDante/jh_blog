@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Categories on Home</title>
-    <link>http://wangjinbao.netlify.app/en/categories/</link>
+    <link>http://JarvanWang.netlify.app/en/categories/</link>
     <description>Recent content in Categories on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,20 +16,20 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 23 Jun 2023 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="http://wangjinbao.netlify.app/en/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://JarvanWang.netlify.app/en/categories/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>k3s</title>
-        <link>http://wangjinbao.netlify.app/en/categories/k3s/</link>
+        <link>http://JarvanWang.netlify.app/en/categories/k3s/</link>
         <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         
-        <guid>http://wangjinbao.netlify.app/en/categories/k3s/</guid>
+        <guid>http://JarvanWang.netlify.app/en/categories/k3s/</guid>
         <description></description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -40,14 +40,14 @@
       
       <item>
         <title>k8s</title>
-        <link>http://wangjinbao.netlify.app/en/categories/k8s/</link>
+        <link>http://JarvanWang.netlify.app/en/categories/k8s/</link>
         <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         
-        <guid>http://wangjinbao.netlify.app/en/categories/k8s/</guid>
+        <guid>http://JarvanWang.netlify.app/en/categories/k8s/</guid>
         <description></description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -58,14 +58,14 @@
       
       <item>
         <title>multipass</title>
-        <link>http://wangjinbao.netlify.app/en/categories/multipass/</link>
+        <link>http://JarvanWang.netlify.app/en/categories/multipass/</link>
         <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         
-        <guid>http://wangjinbao.netlify.app/en/categories/multipass/</guid>
+        <guid>http://JarvanWang.netlify.app/en/categories/multipass/</guid>
         <description></description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -76,14 +76,14 @@
       
       <item>
         <title>jeager</title>
-        <link>http://wangjinbao.netlify.app/en/categories/jeager/</link>
+        <link>http://JarvanWang.netlify.app/en/categories/jeager/</link>
         <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         
-        <guid>http://wangjinbao.netlify.app/en/categories/jeager/</guid>
+        <guid>http://JarvanWang.netlify.app/en/categories/jeager/</guid>
         <description></description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -94,14 +94,14 @@
       
       <item>
         <title>prometheus</title>
-        <link>http://wangjinbao.netlify.app/en/categories/prometheus/</link>
+        <link>http://JarvanWang.netlify.app/en/categories/prometheus/</link>
         <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         
-        <guid>http://wangjinbao.netlify.app/en/categories/prometheus/</guid>
+        <guid>http://JarvanWang.netlify.app/en/categories/prometheus/</guid>
         <description></description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -112,14 +112,14 @@
       
       <item>
         <title>yaml</title>
-        <link>http://wangjinbao.netlify.app/en/categories/yaml/</link>
+        <link>http://JarvanWang.netlify.app/en/categories/yaml/</link>
         <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         
-        <guid>http://wangjinbao.netlify.app/en/categories/yaml/</guid>
+        <guid>http://JarvanWang.netlify.app/en/categories/yaml/</guid>
         <description></description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -130,14 +130,14 @@
       
       <item>
         <title>consul</title>
-        <link>http://wangjinbao.netlify.app/en/categories/consul/</link>
+        <link>http://JarvanWang.netlify.app/en/categories/consul/</link>
         <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         
-        <guid>http://wangjinbao.netlify.app/en/categories/consul/</guid>
+        <guid>http://JarvanWang.netlify.app/en/categories/consul/</guid>
         <description></description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -148,14 +148,14 @@
       
       <item>
         <title>seata</title>
-        <link>http://wangjinbao.netlify.app/en/categories/seata/</link>
+        <link>http://JarvanWang.netlify.app/en/categories/seata/</link>
         <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         
-        <guid>http://wangjinbao.netlify.app/en/categories/seata/</guid>
+        <guid>http://JarvanWang.netlify.app/en/categories/seata/</guid>
         <description></description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -166,14 +166,14 @@
       
       <item>
         <title>db</title>
-        <link>http://wangjinbao.netlify.app/en/categories/db/</link>
+        <link>http://JarvanWang.netlify.app/en/categories/db/</link>
         <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         
-        <guid>http://wangjinbao.netlify.app/en/categories/db/</guid>
+        <guid>http://JarvanWang.netlify.app/en/categories/db/</guid>
         <description></description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -184,14 +184,14 @@
       
       <item>
         <title>go</title>
-        <link>http://wangjinbao.netlify.app/en/categories/go/</link>
+        <link>http://JarvanWang.netlify.app/en/categories/go/</link>
         <pubDate>Sat, 03 Dec 2022 00:00:01 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         
-        <guid>http://wangjinbao.netlify.app/en/categories/go/</guid>
+        <guid>http://JarvanWang.netlify.app/en/categories/go/</guid>
         <description></description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -202,14 +202,14 @@
       
       <item>
         <title>helm</title>
-        <link>http://wangjinbao.netlify.app/en/categories/helm/</link>
+        <link>http://JarvanWang.netlify.app/en/categories/helm/</link>
         <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         
-        <guid>http://wangjinbao.netlify.app/en/categories/helm/</guid>
+        <guid>http://JarvanWang.netlify.app/en/categories/helm/</guid>
         <description></description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -220,14 +220,14 @@
       
       <item>
         <title>minikube</title>
-        <link>http://wangjinbao.netlify.app/en/categories/minikube/</link>
+        <link>http://JarvanWang.netlify.app/en/categories/minikube/</link>
         <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         
-        <guid>http://wangjinbao.netlify.app/en/categories/minikube/</guid>
+        <guid>http://JarvanWang.netlify.app/en/categories/minikube/</guid>
         <description></description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -238,14 +238,14 @@
       
       <item>
         <title>es</title>
-        <link>http://wangjinbao.netlify.app/en/categories/es/</link>
+        <link>http://JarvanWang.netlify.app/en/categories/es/</link>
         <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         
-        <guid>http://wangjinbao.netlify.app/en/categories/es/</guid>
+        <guid>http://JarvanWang.netlify.app/en/categories/es/</guid>
         <description></description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -256,14 +256,14 @@
       
       <item>
         <title>fluentd</title>
-        <link>http://wangjinbao.netlify.app/en/categories/fluentd/</link>
+        <link>http://JarvanWang.netlify.app/en/categories/fluentd/</link>
         <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         
-        <guid>http://wangjinbao.netlify.app/en/categories/fluentd/</guid>
+        <guid>http://JarvanWang.netlify.app/en/categories/fluentd/</guid>
         <description></description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -274,14 +274,14 @@
       
       <item>
         <title>kibana</title>
-        <link>http://wangjinbao.netlify.app/en/categories/kibana/</link>
+        <link>http://JarvanWang.netlify.app/en/categories/kibana/</link>
         <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         
-        <guid>http://wangjinbao.netlify.app/en/categories/kibana/</guid>
+        <guid>http://JarvanWang.netlify.app/en/categories/kibana/</guid>
         <description></description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -292,14 +292,14 @@
       
       <item>
         <title>golang</title>
-        <link>http://wangjinbao.netlify.app/en/categories/golang/</link>
+        <link>http://JarvanWang.netlify.app/en/categories/golang/</link>
         <pubDate>Wed, 08 Jun 2022 12:00:06 +0900</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         
-        <guid>http://wangjinbao.netlify.app/en/categories/golang/</guid>
+        <guid>http://JarvanWang.netlify.app/en/categories/golang/</guid>
         <description></description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -310,14 +310,14 @@
       
       <item>
         <title>mysql</title>
-        <link>http://wangjinbao.netlify.app/en/categories/mysql/</link>
+        <link>http://JarvanWang.netlify.app/en/categories/mysql/</link>
         <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         
-        <guid>http://wangjinbao.netlify.app/en/categories/mysql/</guid>
+        <guid>http://JarvanWang.netlify.app/en/categories/mysql/</guid>
         <description></description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -328,14 +328,14 @@
       
       <item>
         <title>redis</title>
-        <link>http://wangjinbao.netlify.app/en/categories/redis/</link>
+        <link>http://JarvanWang.netlify.app/en/categories/redis/</link>
         <pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         
-        <guid>http://wangjinbao.netlify.app/en/categories/redis/</guid>
+        <guid>http://JarvanWang.netlify.app/en/categories/redis/</guid>
         <description></description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -346,14 +346,14 @@
       
       <item>
         <title>kafka</title>
-        <link>http://wangjinbao.netlify.app/en/categories/kafka/</link>
+        <link>http://JarvanWang.netlify.app/en/categories/kafka/</link>
         <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         
-        <guid>http://wangjinbao.netlify.app/en/categories/kafka/</guid>
+        <guid>http://JarvanWang.netlify.app/en/categories/kafka/</guid>
         <description></description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -364,14 +364,14 @@
       
       <item>
         <title>linux</title>
-        <link>http://wangjinbao.netlify.app/en/categories/linux/</link>
+        <link>http://JarvanWang.netlify.app/en/categories/linux/</link>
         <pubDate>Sun, 02 Jan 2022 00:00:01 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         
-        <guid>http://wangjinbao.netlify.app/en/categories/linux/</guid>
+        <guid>http://JarvanWang.netlify.app/en/categories/linux/</guid>
         <description></description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -382,14 +382,14 @@
       
       <item>
         <title>python</title>
-        <link>http://wangjinbao.netlify.app/en/categories/python/</link>
+        <link>http://JarvanWang.netlify.app/en/categories/python/</link>
         <pubDate>Sat, 25 Jan 2020 06:40:51 +0900</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         
-        <guid>http://wangjinbao.netlify.app/en/categories/python/</guid>
+        <guid>http://JarvanWang.netlify.app/en/categories/python/</guid>
         <description></description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         

@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Tags on Home</title>
-    <link>http://wangjinbao.netlify.app/en/tags/</link>
+    <link>http://JarvanWang.netlify.app/en/tags/</link>
     <description>Recent content in Tags on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,20 +16,20 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 25 Jun 2023 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="http://wangjinbao.netlify.app/en/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://JarvanWang.netlify.app/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>db</title>
-        <link>http://wangjinbao.netlify.app/en/tags/db/</link>
+        <link>http://JarvanWang.netlify.app/en/tags/db/</link>
         <pubDate>Sun, 25 Jun 2023 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         
-        <guid>http://wangjinbao.netlify.app/en/tags/db/</guid>
+        <guid>http://JarvanWang.netlify.app/en/tags/db/</guid>
         <description></description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -40,14 +40,14 @@
       
       <item>
         <title>k8s</title>
-        <link>http://wangjinbao.netlify.app/en/tags/k8s/</link>
+        <link>http://JarvanWang.netlify.app/en/tags/k8s/</link>
         <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         
-        <guid>http://wangjinbao.netlify.app/en/tags/k8s/</guid>
+        <guid>http://JarvanWang.netlify.app/en/tags/k8s/</guid>
         <description></description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -58,14 +58,14 @@
       
       <item>
         <title>javascript</title>
-        <link>http://wangjinbao.netlify.app/en/tags/javascript/</link>
+        <link>http://JarvanWang.netlify.app/en/tags/javascript/</link>
         <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         
-        <guid>http://wangjinbao.netlify.app/en/tags/javascript/</guid>
+        <guid>http://JarvanWang.netlify.app/en/tags/javascript/</guid>
         <description></description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -76,14 +76,14 @@
       
       <item>
         <title>knowledge</title>
-        <link>http://wangjinbao.netlify.app/en/tags/knowledge/</link>
+        <link>http://JarvanWang.netlify.app/en/tags/knowledge/</link>
         <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         
-        <guid>http://wangjinbao.netlify.app/en/tags/knowledge/</guid>
+        <guid>http://JarvanWang.netlify.app/en/tags/knowledge/</guid>
         <description></description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -94,14 +94,14 @@
       
       <item>
         <title>db</title>
-        <link>http://wangjinbao.netlify.app/en/tags/db/</link>
+        <link>http://JarvanWang.netlify.app/en/tags/db/</link>
         <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         
-        <guid>http://wangjinbao.netlify.app/en/tags/db/</guid>
+        <guid>http://JarvanWang.netlify.app/en/tags/db/</guid>
         <description></description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -112,14 +112,14 @@
       
       <item>
         <title>golang</title>
-        <link>http://wangjinbao.netlify.app/en/tags/golang/</link>
+        <link>http://JarvanWang.netlify.app/en/tags/golang/</link>
         <pubDate>Mon, 05 Dec 2022 00:00:01 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         
-        <guid>http://wangjinbao.netlify.app/en/tags/golang/</guid>
+        <guid>http://JarvanWang.netlify.app/en/tags/golang/</guid>
         <description></description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -130,14 +130,14 @@
       
       <item>
         <title>linux</title>
-        <link>http://wangjinbao.netlify.app/en/tags/linux/</link>
+        <link>http://JarvanWang.netlify.app/en/tags/linux/</link>
         <pubDate>Fri, 04 Nov 2022 00:00:01 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         
-        <guid>http://wangjinbao.netlify.app/en/tags/linux/</guid>
+        <guid>http://JarvanWang.netlify.app/en/tags/linux/</guid>
         <description></description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -148,14 +148,14 @@
       
       <item>
         <title>docker</title>
-        <link>http://wangjinbao.netlify.app/en/tags/docker/</link>
+        <link>http://JarvanWang.netlify.app/en/tags/docker/</link>
         <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         
-        <guid>http://wangjinbao.netlify.app/en/tags/docker/</guid>
+        <guid>http://JarvanWang.netlify.app/en/tags/docker/</guid>
         <description></description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -166,14 +166,14 @@
       
       <item>
         <title>career</title>
-        <link>http://wangjinbao.netlify.app/en/tags/career/</link>
+        <link>http://JarvanWang.netlify.app/en/tags/career/</link>
         <pubDate>Mon, 06 Jun 2022 00:00:05 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         
-        <guid>http://wangjinbao.netlify.app/en/tags/career/</guid>
+        <guid>http://JarvanWang.netlify.app/en/tags/career/</guid>
         <description></description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -184,14 +184,14 @@
       
       <item>
         <title>python</title>
-        <link>http://wangjinbao.netlify.app/en/tags/python/</link>
+        <link>http://JarvanWang.netlify.app/en/tags/python/</link>
         <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         
-        <guid>http://wangjinbao.netlify.app/en/tags/python/</guid>
+        <guid>http://JarvanWang.netlify.app/en/tags/python/</guid>
         <description></description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -202,14 +202,14 @@
       
       <item>
         <title>php</title>
-        <link>http://wangjinbao.netlify.app/en/tags/php/</link>
+        <link>http://JarvanWang.netlify.app/en/tags/php/</link>
         <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         
-        <guid>http://wangjinbao.netlify.app/en/tags/php/</guid>
+        <guid>http://JarvanWang.netlify.app/en/tags/php/</guid>
         <description></description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -220,14 +220,14 @@
       
       <item>
         <title>shortcode</title>
-        <link>http://wangjinbao.netlify.app/en/tags/shortcode/</link>
+        <link>http://JarvanWang.netlify.app/en/tags/shortcode/</link>
         <pubDate>Sat, 25 Jan 2020 06:40:51 +0900</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         
-        <guid>http://wangjinbao.netlify.app/en/tags/shortcode/</guid>
+        <guid>http://JarvanWang.netlify.app/en/tags/shortcode/</guid>
         <description></description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -238,14 +238,14 @@
       
       <item>
         <title>index</title>
-        <link>http://wangjinbao.netlify.app/en/tags/index/</link>
+        <link>http://JarvanWang.netlify.app/en/tags/index/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         
-        <guid>http://wangjinbao.netlify.app/en/tags/index/</guid>
+        <guid>http://JarvanWang.netlify.app/en/tags/index/</guid>
         <description></description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         

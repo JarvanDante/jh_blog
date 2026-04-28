@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Galleries on Hugo Zzo Theme</title>
-    <link>http://wangjinbao.netlify.app/ko/gallery/</link>
+    <link>http://JarvanWang.netlify.app/ko/gallery/</link>
     <description>Recent content in Galleries on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
@@ -16,20 +16,20 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 12 Oct 2018 10:20:16 +0900</lastBuildDate>
     
-        <atom:link href="http://wangjinbao.netlify.app/ko/gallery/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://JarvanWang.netlify.app/ko/gallery/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Photo</title>
-        <link>http://wangjinbao.netlify.app/ko/gallery/photo/</link>
+        <link>http://JarvanWang.netlify.app/ko/gallery/photo/</link>
         <pubDate>Fri, 12 Oct 2018 10:20:16 +0900</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Fri, 12 Oct 2018 10:20:16 +0900</atom:modified>
-        <guid>http://wangjinbao.netlify.app/ko/gallery/photo/</guid>
+        <guid>http://JarvanWang.netlify.app/ko/gallery/photo/</guid>
         <description></description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -40,14 +40,14 @@
       
       <item>
         <title>Cartoon</title>
-        <link>http://wangjinbao.netlify.app/ko/gallery/cartoon/</link>
+        <link>http://JarvanWang.netlify.app/ko/gallery/cartoon/</link>
         <pubDate>Thu, 11 Oct 2018 10:20:16 +0900</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Thu, 11 Oct 2018 10:20:16 +0900</atom:modified>
-        <guid>http://wangjinbao.netlify.app/ko/gallery/cartoon/</guid>
+        <guid>http://JarvanWang.netlify.app/ko/gallery/cartoon/</guid>
         <description></description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         

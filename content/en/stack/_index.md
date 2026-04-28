@@ -1,6 +1,6 @@
 +++
 title = "技术栈"
-author = "Wangjinbao"
+author = "JarvanWang"
 tags = ["index"]
 description = "Stack page"
 +++

@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>hugo on Home</title>
-    <link>http://wangjinbao.netlify.app/en/tags/hugo/</link>
+    <link>http://JarvanWang.netlify.app/en/tags/hugo/</link>
     <description>Recent content in hugo on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,21 +16,21 @@
     <copyright>©2023, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 24 Jan 2020 06:40:51 +0900</lastBuildDate>
     
-        <atom:link href="http://wangjinbao.netlify.app/en/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://JarvanWang.netlify.app/en/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Syntax highlighting</title>
-        <link>http://wangjinbao.netlify.app/en/posts/syntax-highlight/</link>
+        <link>http://JarvanWang.netlify.app/en/posts/syntax-highlight/</link>
         <pubDate>Fri, 24 Jan 2020 06:40:51 +0900</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Fri, 24 Jan 2020 06:40:51 +0900</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/posts/syntax-highlight/</guid>
+        <guid>http://JarvanWang.netlify.app/en/posts/syntax-highlight/</guid>
         <description>Code Syntax Highlighting123123123 Verify the following code blocks render as code blocks and highlight properly. More about tuning syntax highlighting is the Hugo documentation. Diff 1 2 3 4 5 6 7 8 9 10 *** /path/to/original &amp;#39;&amp;#39;timestamp&amp;#39;&amp;#39; --- /path/to/new &amp;#39;&amp;#39;timestamp&amp;#39;&amp;#39; *************** *** 1 **** ! This is a line. --- 1 --- ! This is a replacement line. It is important to spell -removed line +new line *** /path/to/original</description>
         
         <dc:creator>Jeus</dc:creator>
-        <media:content url="http://wangjinbao.netlify.appimages/feature2/color-palette.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://JarvanWang.netlify.appimages/feature2/color-palette.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>linux on Home</title>
-    <link>http://wangjinbao.netlify.app/en/categories/linux/</link>
+    <link>http://JarvanWang.netlify.app/en/categories/linux/</link>
     <description>Recent content in linux on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,20 +16,20 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 02 Jan 2022 00:00:01 +0000</lastBuildDate>
     
-        <atom:link href="http://wangjinbao.netlify.app/en/categories/linux/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://JarvanWang.netlify.app/en/categories/linux/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Istio</title>
-        <link>http://wangjinbao.netlify.app/en/stack/linux/istio/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/linux/istio/</link>
         <pubDate>Sun, 02 Jan 2022 00:00:01 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Sun, 02 Jan 2022 00:00:01 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/linux/istio/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/linux/istio/</guid>
         <description>istio概念 讲多了记不住，那就：服务网格 + 微服务治理 。</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         

@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>linux on Home</title>
-    <link>http://wangjinbao.netlify.app/en/tags/linux/</link>
+    <link>http://JarvanWang.netlify.app/en/tags/linux/</link>
     <description>Recent content in linux on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,20 +16,20 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 04 Nov 2022 00:00:01 +0000</lastBuildDate>
     
-        <atom:link href="http://wangjinbao.netlify.app/en/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://JarvanWang.netlify.app/en/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>k8s</title>
-        <link>http://wangjinbao.netlify.app/en/stack/linux/k8s/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/linux/k8s/</link>
         <pubDate>Fri, 04 Nov 2022 00:00:01 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Fri, 04 Nov 2022 00:00:01 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/linux/k8s/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/linux/k8s/</guid>
         <description>一、namespace namespace的作用就是用来隔离资源，将同一集群中的资源划分为相互隔离的组。同一名称空间内的资源名称要唯一，但不同</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -48,14 +48,14 @@
       
       <item>
         <title>Serverless</title>
-        <link>http://wangjinbao.netlify.app/en/stack/linux/serverless/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/linux/serverless/</link>
         <pubDate>Fri, 04 Nov 2022 00:00:01 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Fri, 04 Nov 2022 00:00:01 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/linux/serverless/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/linux/serverless/</guid>
         <description>无服务器 不够灵活,难以预料的波动 无需CDN 历史： serverless=FaaS(Function as a Service)+BaaS(Backend as a Service) 浪费 好处： 1、使用的资源付费 2、服务高可用，弹性伸缩 3、无运维费用 缺点： 冷启动</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -74,14 +74,14 @@
       
       <item>
         <title>Socket编程</title>
-        <link>http://wangjinbao.netlify.app/en/stack/linux/socket/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/linux/socket/</link>
         <pubDate>Thu, 03 Nov 2022 00:00:01 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Thu, 03 Nov 2022 00:00:01 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/linux/socket/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/linux/socket/</guid>
         <description>socket概念 在计算机网络中，Socket是一种抽象概念，它可以看作是一种端点，用于标识网络中的一个通信连接。一个Socket由 IP地址 和</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -100,14 +100,14 @@
       
       <item>
         <title>epoll模型的原理和工作过程</title>
-        <link>http://wangjinbao.netlify.app/en/stack/linux/epoll/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/linux/epoll/</link>
         <pubDate>Wed, 02 Nov 2022 00:00:01 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Wed, 02 Nov 2022 00:00:01 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/linux/epoll/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/linux/epoll/</guid>
         <description>常见的网络I/O模型有哪些 1.阻塞式I/O（Blocking I/O） 应用程序通过调用系统提供的I/O函数进行数据读写时，会阻塞等待直到数据传</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -126,14 +126,14 @@
       
       <item>
         <title>CentOS24年停更后平替系统</title>
-        <link>http://wangjinbao.netlify.app/en/stack/linux/centos_stop/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/linux/centos_stop/</link>
         <pubDate>Wed, 05 Jan 2022 00:00:01 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Wed, 05 Jan 2022 00:00:01 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/linux/centos_stop/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/linux/centos_stop/</guid>
         <description>CentOS Linux 将于 Jun 30th, 2024 EOF(结束生命周期). 届时, 我们的 OS 还有哪些选择? 不要选择 CentOS Stream ! 不要选择 CentOS Stream ! 不要选择 CentOS Stream ! Linux生态 红帽企业级 Linux 生态系</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -152,14 +152,14 @@
       
       <item>
         <title>Istio</title>
-        <link>http://wangjinbao.netlify.app/en/stack/linux/istio/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/linux/istio/</link>
         <pubDate>Sun, 02 Jan 2022 00:00:01 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Sun, 02 Jan 2022 00:00:01 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/linux/istio/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/linux/istio/</guid>
         <description>istio概念 讲多了记不住，那就：服务网格 + 微服务治理 。</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -182,14 +182,14 @@
       
       <item>
         <title>zsh下安装主题Powerlevel9k</title>
-        <link>http://wangjinbao.netlify.app/en/stack/linux/zsh/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/linux/zsh/</link>
         <pubDate>Sun, 02 Jan 2022 00:00:01 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Sun, 02 Jan 2022 00:00:01 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/linux/zsh/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/linux/zsh/</guid>
         <description>安装 Powerlevel9k 步骤一：安装 Powerline 字体库 1 2 3 4 $git clone https://github.com/powerline/fonts.git $./install.sh Copying fonts... Powerline fonts installed to /Users/wangdante/Library/Fonts （字段安装的目录） brew tap 更新第三方库，才能用 homebrew 安裝字型。执行过可以跳过 brew tap caskroom/fonts (旧版本，</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -208,14 +208,14 @@
       
       <item>
         <title>linux的架构</title>
-        <link>http://wangjinbao.netlify.app/en/stack/linux/linux_model/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/linux/linux_model/</link>
         <pubDate>Sat, 01 Jan 2022 00:00:01 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Sat, 01 Jan 2022 00:00:01 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/linux/linux_model/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/linux/linux_model/</guid>
         <description>linux的架构 组成： 内核 系统库 shell 应用程序 内核 组件包括： 设备驱动程序 进程管理 内存管理 文件系统 网络协议系统 系统库 接口和函数包括： C标准库（li</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -234,14 +234,14 @@
       
       <item>
         <title>Nginx负载均衡中4层代理和7层代理的区别</title>
-        <link>http://wangjinbao.netlify.app/en/stack/linux/proxy47/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/linux/proxy47/</link>
         <pubDate>Sat, 01 Jan 2022 00:00:01 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Sat, 01 Jan 2022 00:00:01 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/linux/proxy47/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/linux/proxy47/</guid>
         <description>一、4层代理和7层代理什么意思？ 这里的层是OSI 7层网络模型，OSI 模型是从上往下的，越底层越接近硬件，越往上越接近软件，这七层模型分别是：</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -260,14 +260,14 @@
       
       <item>
         <title>finalShell终端</title>
-        <link>http://wangjinbao.netlify.app/en/stack/linux/finalshell/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/linux/finalshell/</link>
         <pubDate>Fri, 01 Jan 2021 00:00:01 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Fri, 01 Jan 2021 00:00:01 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/linux/finalshell/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/linux/finalshell/</guid>
         <description>FinalShell工具 功能 云端同步,免费海外服务器远程桌面加速,ssh加速,本地化命令输入框,支持自动补全,命令历史,自定义命令参数 下载 W</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -286,14 +286,14 @@
       
       <item>
         <title>shell知识点</title>
-        <link>http://wangjinbao.netlify.app/en/stack/linux/shell/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/linux/shell/</link>
         <pubDate>Fri, 01 Jan 2021 00:00:01 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Fri, 01 Jan 2021 00:00:01 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/linux/shell/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/linux/shell/</guid>
         <description>常用命令 系统所有shell版本 cat /etc/shells 1 2 3 4 5 6 7 8 9 10 11 ubuntu@k3s:~$ cat /etc/shells # /etc/shells: valid login shells /bin/sh /usr/bin/sh /bin/bash /usr/bin/bash /bin/rbash /usr/bin/rbash /usr/bin/dash /usr/bin/screen /usr/bin/tmux 系统家目录 echo $HOME 1 2 ubuntu@k3s:~$ echo $HOME /home/ubunt 系统命令查找目录 echo $PATH 1 2</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -312,14 +312,14 @@
       
       <item>
         <title>基础知识</title>
-        <link>http://wangjinbao.netlify.app/en/stack/linux/linux1/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/linux/linux1/</link>
         <pubDate>Fri, 01 Jan 2021 00:00:01 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Fri, 01 Jan 2021 00:00:01 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/linux/linux1/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/linux/linux1/</guid>
         <description>命令 格式： command [-options] [parameter] command: 命令本身 -options: [可选，非必填] 命令的一些选项，可以通过选项控制命令的行为细节 parameter: [可选，非必填] 命令的参数，多数用于命令的指向目</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -338,14 +338,14 @@
       
       <item>
         <title>时区</title>
-        <link>http://wangjinbao.netlify.app/en/stack/linux/date/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/linux/date/</link>
         <pubDate>Fri, 01 Jan 2021 00:00:01 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Fri, 01 Jan 2021 00:00:01 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/linux/date/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/linux/date/</guid>
         <description>方法一：使用命令修改时区 1. 打开终端 2. 运行命令 1 sudo timedatectl set-timezone &amp;lt;时区&amp;gt; 将&amp;lt;时区&amp;gt;替换为你要设置的时区，例如 Asia/Shanghai 3.输入用户密码确</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         

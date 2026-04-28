@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Presentations on Home</title>
-    <link>http://wangjinbao.netlify.app/en/presentation/</link>
+    <link>http://JarvanWang.netlify.app/en/presentation/</link>
     <description>Recent content in Presentations on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,21 +16,21 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Wed, 30 Oct 2019 20:48:10 +0900</lastBuildDate>
     
-        <atom:link href="http://wangjinbao.netlify.app/en/presentation/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://JarvanWang.netlify.app/en/presentation/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Fourth</title>
-        <link>http://wangjinbao.netlify.app/en/presentation/dir/fourth/</link>
+        <link>http://JarvanWang.netlify.app/en/presentation/dir/fourth/</link>
         <pubDate>Wed, 30 Oct 2019 20:48:10 +0900</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Wed, 30 Oct 2019 20:48:10 +0900</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/presentation/dir/fourth/</guid>
+        <guid>http://JarvanWang.netlify.app/en/presentation/dir/fourth/</guid>
         <description></description>
         
-        <dc:creator>wangjinbao</dc:creator>
-        <media:content url="http://wangjinbao.netlify.appimages/feature1/number-four.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <dc:creator>JarvanWang</dc:creator>
+        <media:content url="http://JarvanWang.netlify.appimages/feature1/number-four.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -52,15 +52,15 @@
       
       <item>
         <title>Third</title>
-        <link>http://wangjinbao.netlify.app/en/presentation/third/</link>
+        <link>http://JarvanWang.netlify.app/en/presentation/third/</link>
         <pubDate>Wed, 30 Oct 2019 20:46:30 +0900</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Wed, 30 Oct 2019 20:46:30 +0900</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/presentation/third/</guid>
+        <guid>http://JarvanWang.netlify.app/en/presentation/third/</guid>
         <description></description>
         
-        <dc:creator>wangjinbao</dc:creator>
-        <media:content url="http://wangjinbao.netlify.appimages/feature1/number-three.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <dc:creator>JarvanWang</dc:creator>
+        <media:content url="http://JarvanWang.netlify.appimages/feature1/number-three.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -82,15 +82,15 @@
       
       <item>
         <title>Second</title>
-        <link>http://wangjinbao.netlify.app/en/presentation/second/</link>
+        <link>http://JarvanWang.netlify.app/en/presentation/second/</link>
         <pubDate>Wed, 30 Oct 2019 20:45:24 +0900</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Wed, 30 Oct 2019 20:45:24 +0900</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/presentation/second/</guid>
+        <guid>http://JarvanWang.netlify.app/en/presentation/second/</guid>
         <description></description>
         
-        <dc:creator>wangjinbao</dc:creator>
-        <media:content url="http://wangjinbao.netlify.appimages/feature1/number-two.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <dc:creator>JarvanWang</dc:creator>
+        <media:content url="http://JarvanWang.netlify.appimages/feature1/number-two.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -112,15 +112,15 @@
       
       <item>
         <title>First</title>
-        <link>http://wangjinbao.netlify.app/en/presentation/first/</link>
+        <link>http://JarvanWang.netlify.app/en/presentation/first/</link>
         <pubDate>Wed, 30 Oct 2019 19:45:20 +0900</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Wed, 30 Oct 2019 19:45:20 +0900</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/presentation/first/</guid>
+        <guid>http://JarvanWang.netlify.app/en/presentation/first/</guid>
         <description></description>
         
-        <dc:creator>wangjinbao</dc:creator>
-        <media:content url="http://wangjinbao.netlify.appimages/feature1/number-one.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <dc:creator>JarvanWang</dc:creator>
+        <media:content url="http://JarvanWang.netlify.appimages/feature1/number-one.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

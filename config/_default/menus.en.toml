@@ -7,57 +7,63 @@
 
 [[main]]
   parent = "stack"
+  name = "java"
+  url = "stack/java"
+  weight = 1
+
+[[main]]
+  parent = "stack"
   name = "golang"
   url = "stack/golang"
-  weight = 1
+  weight = 2
 
 [[main]]
   parent = "stack"
   name = "php"
   url = "stack/php"
-  weight = 2
+  weight = 3
 
 [[main]]
   parent = "stack"
   name = "python"
   url = "stack/python"
-  weight = 3
+  weight = 4
 
 [[main]]
   parent = "stack"
   name = "javascript"
   url = "stack/javascript"
-  weight = 4
+  weight = 5
 
 [[main]]
   parent = "stack"
   name = "linux"
   url = "stack/linux"
-  weight = 5
+  weight = 6
 
 [[main]]
   parent = "stack"
   name = "db"
   url = "stack/db"
-  weight = 6
+  weight = 7
 
   [[main]]
     parent = "stack"
     name = "k8s"
     url = "stack/k8s"
-    weight = 7
+    weight = 8
 
   [[main]]
     parent = "stack"
     name = "knowledge"
     url = "stack/knowledge"
-    weight = 8
+    weight = 9
 
   [[main]]
     parent = "stack"
     name = "产品"
     url = "stack/product"
-    weight = 9
+    weight = 10
 [[main]]
   identifier = "about"
   name = "个人经历"

@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>python on Home</title>
-    <link>http://wangjinbao.netlify.app/en/stack/python/</link>
+    <link>http://JarvanWang.netlify.app/en/stack/python/</link>
     <description>Recent content in python on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,20 +16,20 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 20 May 2022 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="http://wangjinbao.netlify.app/en/stack/python/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://JarvanWang.netlify.app/en/stack/python/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>文本匹配模型</title>
-        <link>http://wangjinbao.netlify.app/en/stack/python/answer/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/python/answer/</link>
         <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Fri, 20 May 2022 00:00:00 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/python/answer/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/python/answer/</guid>
         <description>1、文本匹配模型分类 文本匹配模型在问答系统、信息检索、文本分类、自然语言处理等任务中都有广泛的应用。根据具体的任务和需求，可以选择合适的模型</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -48,14 +48,14 @@
       
       <item>
         <title>python常用资料</title>
-        <link>http://wangjinbao.netlify.app/en/stack/python/links/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/python/links/</link>
         <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Thu, 19 May 2022 00:00:00 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/python/links/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/python/links/</guid>
         <description>1、相关连接 Python官方网站： https://www.python.org/ 这是Python语言的官方网站，你可以在这里找到Python的最新版本、文档、教程等。 Python入门教</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -74,15 +74,15 @@
       
       <item>
         <title>django框架</title>
-        <link>http://wangjinbao.netlify.app/en/stack/python/django/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/python/django/</link>
         <pubDate>Sat, 25 Jan 2020 06:40:51 +0900</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Sat, 25 Jan 2020 06:40:51 +0900</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/python/django/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/python/django/</guid>
         <description>一、安装 pip 安装 pip install django 安装成功后会有 django-admin 命令 创建新项目 django-admin startproject website(项目名) 开启项目 python manage.py startapp app &amp;ndash;不能重名 启动项目 python manage.py runserver 指定 IP+</description>
         
-        <dc:creator>wangjinbao</dc:creator>
-        <media:content url="http://wangjinbao.netlify.appimages/feature3/django.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <dc:creator>JarvanWang</dc:creator>
+        <media:content url="http://JarvanWang.netlify.appimages/feature3/django.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

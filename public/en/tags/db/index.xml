@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>db on Home</title>
-    <link>http://wangjinbao.netlify.app/en/tags/db/</link>
+    <link>http://JarvanWang.netlify.app/en/tags/db/</link>
     <description>Recent content in db on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,21 +16,21 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 18 May 2023 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="http://wangjinbao.netlify.app/en/tags/db/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://JarvanWang.netlify.app/en/tags/db/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>亿级仓库礼物的建设与演进</title>
-        <link>http://wangjinbao.netlify.app/en/posts/gift/</link>
+        <link>http://JarvanWang.netlify.app/en/posts/gift/</link>
         <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Thu, 18 May 2023 00:00:00 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/posts/gift/</guid>
+        <guid>http://JarvanWang.netlify.app/en/posts/gift/</guid>
         <description>仓库礼物概览 1.普通送礼 充值星币 2.仓库送礼 活动赢星币 需求： 存储要求： 数量 礼物种类 过期属性 绑定属性 送礼功能 入/出仓库功能 目标： 实现基本功能条</description>
         
-        <dc:creator>wangjinbao</dc:creator>
-        <media:content url="http://wangjinbao.netlify.appimages/docImages/liwuzb.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <dc:creator>JarvanWang</dc:creator>
+        <media:content url="http://JarvanWang.netlify.appimages/docImages/liwuzb.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -52,15 +52,15 @@
       
       <item>
         <title>亿级仓库礼物的建设与演进</title>
-        <link>http://wangjinbao.netlify.app/en/stack/db/gift/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/db/gift/</link>
         <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Thu, 18 May 2023 00:00:00 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/db/gift/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/db/gift/</guid>
         <description>仓库礼物概览 1.普通送礼 充值星币 2.仓库送礼 活动赢星币 需求： 存储要求： 数量 礼物种类 过期属性 绑定属性 送礼功能 入/出仓库功能 目标： 实现基本功能条</description>
         
-        <dc:creator>wangjinbao</dc:creator>
-        <media:content url="http://wangjinbao.netlify.appimages/docImages/liwuzb.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <dc:creator>JarvanWang</dc:creator>
+        <media:content url="http://JarvanWang.netlify.appimages/docImages/liwuzb.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>prometheus on Home</title>
-    <link>http://wangjinbao.netlify.app/en/categories/prometheus/</link>
+    <link>http://JarvanWang.netlify.app/en/categories/prometheus/</link>
     <description>Recent content in prometheus on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,20 +16,20 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 20 May 2023 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="http://wangjinbao.netlify.app/en/categories/prometheus/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://JarvanWang.netlify.app/en/categories/prometheus/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>prometheus</title>
-        <link>http://wangjinbao.netlify.app/en/stack/knowledge/prometheus/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/knowledge/prometheus/</link>
         <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Sat, 20 May 2023 00:00:00 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/knowledge/prometheus/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/knowledge/prometheus/</guid>
         <description>概述 prometheus 是一个 时间序列 数据库 prometheus特点 多维度数据模型 Prometheus 使用多维度的数据模型来存储时间序列数据 强大的查询语言 PromQL 是 Prometheus 的查询语言，支持</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         

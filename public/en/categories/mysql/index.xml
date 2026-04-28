@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>mysql on Home</title>
-    <link>http://wangjinbao.netlify.app/en/categories/mysql/</link>
+    <link>http://JarvanWang.netlify.app/en/categories/mysql/</link>
     <description>Recent content in mysql on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,20 +16,20 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 19 May 2022 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="http://wangjinbao.netlify.app/en/categories/mysql/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://JarvanWang.netlify.app/en/categories/mysql/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>分布式事务的常用解决方案</title>
-        <link>http://wangjinbao.netlify.app/en/stack/knowledge/transaction/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/knowledge/transaction/</link>
         <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Thu, 19 May 2022 00:00:00 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/knowledge/transaction/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/knowledge/transaction/</guid>
         <description>引言 在分布式系统中，事务管理是一项非常重要的任务。分布式事务涉及到多个事务参与者之间的协调和一致性保证，同时还要解决网络延迟、故障恢复等问题</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -56,14 +56,14 @@
       
       <item>
         <title>保证缓存和数据库的数据一致性</title>
-        <link>http://wangjinbao.netlify.app/en/stack/knowledge/data_same/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/knowledge/data_same/</link>
         <pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Wed, 18 May 2022 00:00:00 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/knowledge/data_same/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/knowledge/data_same/</guid>
         <description>错误的解决方案 1 先更新数据库，再删除缓存 若数据库更新成功，删除缓存操作失败，则此后读到的都是缓存中过期的数据，造成不一致问题。 2 先更新数据库</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         

@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>k8s on Home</title>
-    <link>http://wangjinbao.netlify.app/en/categories/k8s/</link>
+    <link>http://JarvanWang.netlify.app/en/categories/k8s/</link>
     <description>Recent content in k8s on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,20 +16,20 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 23 Jun 2023 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="http://wangjinbao.netlify.app/en/categories/k8s/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://JarvanWang.netlify.app/en/categories/k8s/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>k3s&#43;multipass实践k8s集群操作</title>
-        <link>http://wangjinbao.netlify.app/en/stack/k8s/k8s2/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/k8s/k8s2/</link>
         <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Fri, 23 Jun 2023 00:00:00 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/k8s/k8s2/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/k8s/k8s2/</guid>
         <description>k8s的组件 node node是K8S集群中的一个节点 pod pod最小单元 ps:一个pod中是可以运行多个容器中的 service:svc 内部服务：数据库、后端API 外部服务</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -60,14 +60,14 @@
       
       <item>
         <title>k8s实践与总结-1(pod)</title>
-        <link>http://wangjinbao.netlify.app/en/stack/k8s/k8s3/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/k8s/k8s3/</link>
         <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Fri, 23 Jun 2023 00:00:00 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/k8s/k8s3/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/k8s/k8s3/</guid>
         <description>pod pause容器 pause容器的作用: 最主要的作用：创建共享的网络名称空间，以便于其它容器以平等的关系加入此网络名称空间 pause进程 是po</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -90,14 +90,14 @@
       
       <item>
         <title>k8s实践与总结-2(资源与属性)</title>
-        <link>http://wangjinbao.netlify.app/en/stack/k8s/k8s4/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/k8s/k8s4/</link>
         <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Fri, 23 Jun 2023 00:00:00 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/k8s/k8s4/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/k8s/k8s4/</guid>
         <description>资源分类 名称空间级别： 如：kube-system、k3s 1.工作负载型资源： pod 、replicaSet 、Deployment 、stateful</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -120,14 +120,14 @@
       
       <item>
         <title>k8s实践与总结-3(pod生命周期)</title>
-        <link>http://wangjinbao.netlify.app/en/stack/k8s/k8s5/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/k8s/k8s5/</link>
         <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Fri, 23 Jun 2023 00:00:00 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/k8s/k8s5/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/k8s/k8s5/</guid>
         <description>生命周期 pause容器 基础网络容器 Init C 初始化容器 Init容器 与 变通容器的区别： Init容器总是运行到成功完成为止 每个Init容器必须在下一个</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -150,14 +150,14 @@
       
       <item>
         <title>k8s实践与总结-4(控制器)</title>
-        <link>http://wangjinbao.netlify.app/en/stack/k8s/k8s6/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/k8s/k8s6/</link>
         <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Fri, 23 Jun 2023 00:00:00 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/k8s/k8s6/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/k8s/k8s6/</guid>
         <description>k8s控制器 定义： k8s中内建了很多的controller(控制器)，相当于一个状态机，用来控制pod的具体状态和行为 控制器类型 Replic</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -180,14 +180,14 @@
       
       <item>
         <title>k8s实践与总结-5(service)</title>
-        <link>http://wangjinbao.netlify.app/en/stack/k8s/k8s7/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/k8s/k8s7/</link>
         <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Fri, 23 Jun 2023 00:00:00 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/k8s/k8s7/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/k8s/k8s7/</guid>
         <description>service服务 service的定义： 通过 label 和 selector 对外提供访问的一组pod，相当于微服务 svc只能提供 4层负载均衡 能力,没有7层负载均衡， 也</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -210,14 +210,14 @@
       
       <item>
         <title>k8s实践与总结-6(ingress)</title>
-        <link>http://wangjinbao.netlify.app/en/stack/k8s/k8s8/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/k8s/k8s8/</link>
         <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Fri, 23 Jun 2023 00:00:00 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/k8s/k8s8/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/k8s/k8s8/</guid>
         <description>ingress ingress概述 定义：提供外部访问内部集群的 访问入口，路由规则的集合，将外部的http或https请求转发到集群内部的service上。</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -240,14 +240,14 @@
       
       <item>
         <title>EFK日志监控平台部署架构</title>
-        <link>http://wangjinbao.netlify.app/en/stack/k8s/efk/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/k8s/efk/</link>
         <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Tue, 21 Jun 2022 00:00:00 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/k8s/efk/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/k8s/efk/</guid>
         <description>组件介绍 ElasticSearch：日志存储 + 索引 + 搜索 Fluentd：日志采集、装饰、转换和传输 Kibana：日志查询展示 生产环境 + Kafka mi</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
@@ -282,14 +282,14 @@
       
       <item>
         <title>minikube安装(单机集群)</title>
-        <link>http://wangjinbao.netlify.app/en/stack/k8s/minukube/</link>
+        <link>http://JarvanWang.netlify.app/en/stack/k8s/minukube/</link>
         <pubDate>Sat, 21 May 2022 00:00:00 +0000</pubDate>
         <author>jarvaniv0611@gmail.com (Karson)</author>
         <atom:modified>Sat, 21 May 2022 00:00:00 +0000</atom:modified>
-        <guid>http://wangjinbao.netlify.app/en/stack/k8s/minukube/</guid>
+        <guid>http://JarvanWang.netlify.app/en/stack/k8s/minukube/</guid>
         <description>资源调整 原docker desktop中的配置： 关闭k8x：勾掉 Enable Kubernetes 也可调配置：降低 2h4G 安装minikube 安装kubectl 地址： https://kubernetes.io/docs/tasks/tools/ 本是mac</description>
         
-        <dc:creator>wangjinbao</dc:creator>
+        <dc:creator>JarvanWang</dc:creator>
         
         
         
