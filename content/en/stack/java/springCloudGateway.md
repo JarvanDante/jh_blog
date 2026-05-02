@@ -1,7 +1,7 @@
 ---
 author: "jarvan"
 title: "SpringCloud微服务-gateway网关之JwtToken鉴权"
-date: 2026-01-02
+date: 2025-01-02
 description: "统一路由与转发，鉴权与安全，负载均衡，限流与熔断，日志与监控，协议转换与响应处理"
 draft: false
 hideToc: false
