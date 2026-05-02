@@ -124,3 +124,7 @@ spring:
                 dashboard: 127.0.0.1:8858
                 port: 8721
 ```
+
+### 第四步：重启服务请求接口看控制台
+
+![/images/docImages/sentinel.png](/images/docImages/sentinel.png)
