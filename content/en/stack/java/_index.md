@@ -2,6 +2,6 @@
 title = "java"
 author = "JarvanWang"
 tags = ["index"]
-description = "互联网产品指的是在互联网上运行并通过网络提供服务或满足特定需求的产品。"
-reading-time = 150
+description = "是一种面向对象的、跨平台的编程语言，语法简洁易懂，应用广泛"
+reading-time = 2895
 +++
