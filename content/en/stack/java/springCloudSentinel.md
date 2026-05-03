@@ -128,3 +128,41 @@ spring:
 ### 第四步：重启服务请求接口看控制台
 
 ![/images/docImages/sentinel.png](/images/docImages/sentinel.png)
+
+## 限流测试-请求限流
+
+### 接口配置流控(QPS/线程)
+
+`在Sentinel控制台->簇点链路->选择接口/user/user-info->流控`
+![/images/docImages/sentinel2.png](/images/docImages/sentinel2.png)
+
+### jmeter设置(QPS/线程)
+
+![/images/docImages/sentinel3.png](/images/docImages/sentinel3.png)
+
+### 测试结果:1/2请求返回429
+
+![/images/docImages/sentinel4.png](/images/docImages/sentinel4.png)
+![/images/docImages/sentinel5.png](/images/docImages/sentinel5.png)
+![/images/docImages/sentinel6.png](/images/docImages/sentinel6.png)
+
+## 限流测试-线程隔离
+
+与限流类似，把设置`并发线程数`对应的阈值即可
+
+```XML
+server:
+  port: 8081
+  #可以模拟限流
+  tomcat:
+    threads:
+      max: 5
+    accept-count: 5
+    max-connections: 10
+```
+
+## 熔断测试
+
+与限流类似
+
+![/images/docImages/sentinel7.png](/images/docImages/sentinel7.png)
