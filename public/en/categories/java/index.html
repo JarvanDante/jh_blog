@@ -279,16 +279,16 @@ kimbie
 <div class=summary-classic__flex-box>
 <div class=summary-classic__content>
 <header>
-<h5 class="title h5"><a href=https://jarvanwang.netlify.app/en/stack/java/springboot-auto-configuration-loading-practice/>SpringBoot 配置自动加载流程、底层逻辑、相关注解与使用技巧总结</a> </h5>
+<h5 class="title h5"><a href=https://jarvanwang.netlify.app/en/stack/java/java-local-cache-caffeine-guava-practice/>Java 本地缓存怎么选？Caffeine 与 Guava Cache 使用、原理、技巧总结</a> </h5>
 <h6 class="subtitle caption">
-<time title="Written At" dir=ltr>📅&nbsp;Jan 11, 2025 </time>
+<time title="Written At" dir=ltr>📅&nbsp;Jan 16, 2025 </time>
 <span title="Reading Time" dir=ltr> &#183; ☕&nbsp;8&nbsp;min read </span>
 &#183; <span title="WRITTEN BY" dir=ltr>👤&nbsp;jarvan</span>
 </h6>
 </header>
 <div>
 <div class="summary-classic__text p2">
-系统整理 SpringBoot 配置如何自动加载、自动配置的底层逻辑、核心注解、配置优先级、条件装配、配置绑定以及项目中的排查和使用技巧。
+系统整理 Java 本地缓存的使用场景、核心原理、Caffeine 和 Guava Cache 的区别，并重点说明 Caffeine 在 SpringBoot 项目中的配置、代码示例和注意事项。
 </div>
 </div>
 </div>
@@ -309,6 +309,26 @@ kimbie
 <div>
 <div class="summary-classic__text p2">
 系统整理 SpringBoot MVC 的请求流程、核心组件、常用注解、配置方式、架构分层、优点以及项目实践中的注意事项。
+</div>
+</div>
+</div>
+</div>
+<hr>
+</article>
+<article class=summary-classic data-ani=true>
+<div class=summary-classic__flex-box>
+<div class=summary-classic__content>
+<header>
+<h5 class="title h5"><a href=https://jarvanwang.netlify.app/en/stack/java/springboot-auto-configuration-loading-practice/>SpringBoot 配置自动加载流程、底层逻辑、相关注解与使用技巧总结</a> </h5>
+<h6 class="subtitle caption">
+<time title="Written At" dir=ltr>📅&nbsp;Dec 2, 2024 </time>
+<span title="Reading Time" dir=ltr> &#183; ☕&nbsp;8&nbsp;min read </span>
+&#183; <span title="WRITTEN BY" dir=ltr>👤&nbsp;jarvan</span>
+</h6>
+</header>
+<div>
+<div class="summary-classic__text p2">
+系统整理 SpringBoot 配置如何自动加载、自动配置的底层逻辑、核心注解、配置优先级、条件装配、配置绑定以及项目中的排查和使用技巧。
 </div>
 </div>
 </div>
@@ -351,10 +371,13 @@ kimbie
 <a href=/en/stack/java/microservice-layer-service-responsibility-summary/ class="sidebar-recent__title p1">微服务各层应用说明、服务职责与架构方法总结</a>
 </li>
 <li class=sidebar-recent>
-<a href=/en/stack/java/springboot-auto-configuration-loading-practice/ class="sidebar-recent__title p1">SpringBoot 配置自动加载流程、底层逻辑、相关注解与使用技巧总结</a>
+<a href=/en/stack/java/java-local-cache-caffeine-guava-practice/ class="sidebar-recent__title p1">Java 本地缓存怎么选？Caffeine 与 Guava Cache 使用、原理、技巧总结</a>
 </li>
 <li class=sidebar-recent>
 <a href=/en/stack/java/springboot-mvc-core-principle-practice/ class="sidebar-recent__title p1">SpringBoot MVC 核心原理、使用、优点、配置与注意事项</a>
+</li>
+<li class=sidebar-recent>
+<a href=/en/stack/java/springboot-auto-configuration-loading-practice/ class="sidebar-recent__title p1">SpringBoot 配置自动加载流程、底层逻辑、相关注解与使用技巧总结</a>
 </li>
 <hr class="hr-fade sidebar-hr">
 </ul>
@@ -400,6 +423,26 @@ autoconfiguration
 <a href=/en/tags/batch/ class="is-tags taxo__link" data-dir=ltr>
 <span class=taxo__text>
 batch
+</span>
+<span class=taxo__num dir=auto>
+1
+</span>
+</a>
+</span>
+<span class=tag>
+<a href=/en/tags/cache/ class="is-tags taxo__link" data-dir=ltr>
+<span class=taxo__text>
+cache
+</span>
+<span class=taxo__num dir=auto>
+1
+</span>
+</a>
+</span>
+<span class=tag>
+<a href=/en/tags/caffeine/ class="is-tags taxo__link" data-dir=ltr>
+<span class=taxo__text>
+caffeine
 </span>
 <span class=taxo__num dir=auto>
 1
@@ -597,6 +640,16 @@ grpc
 </a>
 </span>
 <span class=tag>
+<a href=/en/tags/guava/ class="is-tags taxo__link" data-dir=ltr>
+<span class=taxo__text>
+guava
+</span>
+<span class=taxo__num dir=auto>
+1
+</span>
+</a>
+</span>
+<span class=tag>
 <a href=/en/tags/incident/ class="is-tags taxo__link" data-dir=ltr>
 <span class=taxo__text>
 incident
@@ -632,7 +685,7 @@ jaeger
 java
 </span>
 <span class=taxo__num dir=auto>
-7
+8
 </span>
 </a>
 </span>
@@ -1032,7 +1085,7 @@ shortcode
 springboot
 </span>
 <span class=taxo__num dir=auto>
-2
+3
 </span>
 </a>
 </span>
@@ -1191,7 +1244,7 @@ helm
 java
 </span>
 <span class=taxo__num dir=auto>
-4
+5
 </span>
 </a>
 </span>
